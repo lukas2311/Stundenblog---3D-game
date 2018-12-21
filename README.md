@@ -14,5 +14,10 @@ Das Projekt:
 <h3 id="einsneuneinszwei">19.12.18 - Zuhause</h3>
   <h5>Stundenaufwand: 2:00</h5>
   Erste Modellierung von Welt (in UNity - war nur ne Testwelt) und Charakter (in Adobe Fuse)
-  <h3 id="zweinulleinszwei">20.12.18 - Zuhause</h3>
+<h3 id="zweinulleinszwei">20.12.18 - Zuhause</h3>
   <h5>Stundenaufwand: 3:30</h5>
+  Charakter fertiggestellt und Animiert in Fuse und maximo + Vorwärts, Seitwärts und Rückwärtslaufen in Unity - Controller geschriebeben (PlayerController) + Kamera soll Charakter verfolgen, geschrieben (Cameracontroller)
+<h3 id="zweieinseinszwei">21.12.18 - Zuhause</h3>
+  <h5>Stundenaufwand: 2:45</h5>
+  Charakter mit Animationen ausgestattet, Übergänge zwischen den Animationen, Sprinten-Funktion
+  
