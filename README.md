@@ -7,6 +7,7 @@ Das Projekt:
   Ideenfindung: Auf Software und nicht Hardware geeinigt
 <h3 id="einsachteinszwei">18.12.18 - Unterricht</h3>
   <h5>Stundenaufwand: 1:30/h5> 
+  
   Ideenfindung: auf Computerspiel geeinigt, Gameengine entschieden: Unity (alternative UnrealEngine)
 <h3 id="einsachteinszweiz">18.12.18 - Zuhause</h3>
   <h5>Stundenaufwand: 2:30</h5>
