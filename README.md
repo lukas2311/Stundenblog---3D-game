@@ -21,3 +21,6 @@ Das Projekt:
   <h5>Stundenaufwand: 2:45</h5>
   Charakter mit Animationen ausgestattet, Übergänge zwischen den Animationen, Sprinten-Funktion
   
+<h3 id="zweizweieinszwei">22.12.18 - Zuhause</h3>
+<h5>Stundenaufwand: 1:00</h5>
+Verhindert, dass der Charakter so kake nach hinten rollt. An der Dokumentation gearbeitet. Noch die animation gefixt: vorher konnte man shift halten und hat auch beim seitwärtsgehen die sprint animation gesehen. Habe also noch eine connection im animator gesetzt und jetzt kann die animation nur beim vorwärtslaufen abgespielt werden.
