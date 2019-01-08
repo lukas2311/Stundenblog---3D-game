@@ -35,3 +35,19 @@ Das Projekt:
 <h5>Stundenaufwand: 1:00</h5>
 
 Verhindert, dass der Charakter so kake nach hinten rollt. An der Dokumentation gearbeitet. Noch die animation gefixt: vorher konnte man shift halten und hat auch beim seitwärtsgehen die sprint animation gesehen. Habe also noch eine connection im animator gesetzt und jetzt kann die animation nur beim vorwärtslaufen abgespielt werden.
+
+<h3 id="zweiachteinszwei">28.12.18 - Zuhause</h3>
+<h5>Stundenaufwand: 3:00</h5>
+- Blender Einführung/Tests + Stein
+
+<h3 id="nullsiebennulleins">07.01.19 - Zuhause</h3>
+<h5>Stundenaufwand: 1:00</h5>
+Tanne Blender
+
+<h3 id="nullachtnulleinsz">08.01.19 - Zuhause</h3>
+<h5>Stundenaufwand: 1:00</h5>
+Anderer Baum Blender
+
+<h3 id="nullachtnulleins">08.01.19 - Unterricht</h3>
+<h5>Stundenaufwand: 1:00</h5>
+Playtest + Baum Style + Map größe
