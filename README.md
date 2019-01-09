@@ -51,3 +51,10 @@ Anderer Baum Blender
 <h3 id="nullachtnulleins">08.01.19 - Unterricht</h3>
 <h5>Stundenaufwand: 1:00</h5>
 Playtest + Baum Style + Map größe
+
+<h3 id="nullneunnulleins">09.01.19 - Zuhause</h3>
+<h5>Stundenaufwand: 1:00</h5>
+
+EInbau des ersten Baumes, neue texturen für gras und sand
+invisible border gebaut + erstes richtiges Mapdesign
+neue wasser textur rausgesucht und wasser asset damit geupdated
