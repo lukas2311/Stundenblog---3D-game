@@ -1,25 +1,23 @@
-# Stundenblog---3D-game
+# Stundenblog---WHYland -- Weil  er auf einen Island gestrandet ist und sich nur denkt: WHHHHYYYYY????!!!!
 Das Projekt:
 <b>Stundenaufwand: ### Stunden</b>
 
 <h3 id="einssiebeneinszwei">17.12.18 - Unterricht</h3>
-  <h4>Stundenaufwand: 0:45</h4>
+<h4>Stundenaufwand: 0:45</h4>
   
-Heute haben wir uns mit der Ideenfindung beschäftigt. Nachdem wir das letzte Mal ein Hardwarelastiges Projekt gemacht haben, wollten wir diesmal eher ein Projekt mit Fokus auf Software erstellen. 
+Heute haben wir uns mit der Ideenfindung beschäftigt. Nachdem wir das letzte Mal ein Hardwarelastiges Projekt gemacht haben, wollten wir diesmal eher ein Projekt mit Fokus auf Software erstellen. Dabei kamen (unseren Programmierkenntnissen entsprechend) nur eine Smartphone App, ein Computerprogramm oder ein Videospiel in Frage...
 
 <h3 id="einsachteinszwei">18.12.18 - Unterricht</h3>
-  <h4>Stundenaufwand: 1:30</h4>  
+<h4>Stundenaufwand: 1:30</h4>  
   
-Nach einiger Zeit einigten wir uns darauf, keine App, sondern ein Computerprogramm, näher gesagt ein Computerspiel zu programmieren. Da wir schon Erfahrung mit der Unity Engine hatten, beschlossen wir, diese für unser Projekt zu nutzen. Zudem ist die deutlich benutzerfreundlicher als z.B. die Unreal Engine und hat ebenfalls eine deutlich größere Community mit einer größeren Anzahl an Lernvideos.
+Nach einiger Zeit einigten wir uns darauf, keine App, sondern ein Computerprogramm, näher gesagt ein Computerspiel zu programmieren. Dazu entschieden wir uns, da wir auch einen gestalterischen, also einen grafischen, Anspruch hatten. Da wir schon Erfahrung mit der Unity Engine hatten, beschlossen wir, diese für unser Projekt zu nutzen. Zudem ist die deutlich benutzerfreundlicher als z.B. die Unreal Engine und hat ebenfalls eine deutlich größere Community mit einer größeren Anzahl an Lernvideos.
   
 <h3 id="einsachteinszweiz">18.12.18 - Zuhause</h3>
+<h4>Stundenaufwand: 2:30</h4>
 
-  <h4>Stundenaufwand: 2:30</h4>
-
-  Nun haben wir begonnen, uns (erneut) in Unity und die neuesten Updates einzulesen und im Zweifel vorhandenes Wissen aufgefrischt. Zudem haben wir mit der Installation der Unity Engine, sowie einigen Assets begonnen und das Programm eingerichtet. 
-  In Unity eingelesen, vorhandenes Wissen aufgefrischt, Alles Installiert
+Nun haben wir begonnen, uns (erneut) in Unity und die neuesten Updates einzulesen und im Zweifel vorhandenes Wissen aufgefrischt. Zudem haben wir mit der Installation der Unity Engine, sowie einigen Assets begonnen und das Programm eingerichtet, in Unity eingelesen, vorhandenes Wissen aufgefrischt und alles installiert.
   
-  Gleichzeitig haben wir uns darauf geeinigt, wie wir das Projekt umsetzen wollen. Zum einen hatten wir den Anspruch, sämtliche Modelle und Objekte selber zu modellieren, zum anderen einen gewissen Grafischen Standart zu erfüllen. Um das zu erreichen, recherchierten wir nach einen angemessenen Stil für unser Projekt und sind unter anderem auf folgende Zwei beispiele getroffen:
+Gleichzeitig haben wir uns darauf geeinigt, wie wir das Projekt umsetzen wollen. Zum einen hatten wir den Anspruch, sämtliche Modelle und Objekte selber zu modellieren, zum anderen einen gewissen Grafischen Standart zu erfüllen. Um das zu erreichen, recherchierten wir nach einen angemessenen Stil für unser Projekt und sind unter anderem auf folgende Zwei beispiele getroffen:
   
 (HIER DIE BEISPIELBILDER FÜR  DIE GRAFIK EINFÜGEN)
 
