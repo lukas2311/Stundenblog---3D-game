@@ -24,18 +24,23 @@ Gleichzeitig haben wir uns darauf geeinigt, wie wir das Projekt umsetzen wollen.
 Da uns der Low-Poly-Cartoon-Stil zusagte, wollten wir diesen auch in unserem Projekt umsetzen. Als Modellierungssoftware wollten wir dabei Blender verwenden. Blender vor allem deshalb, da es eine Freeware ist und es daher sehr weit verbreitet ist und es große Mengen an Informationen und Tutorials gibt.
   
 <h3 id="einsneuneinszwei">19.12.18 - Zuhause</h3>
-
-  <h4>Stundenaufwand: 2:00</h4>
- Heute haben wir damit begonnen, ein kleines Terrain in Unity zu modellieren und überlegt, wie wir einen eigenen Charakter für die Spielwelt umsetzen können. Da wir große Fans der Creative Cloud von Adobe sind, wollten wir das sich noch in der Beta befindene Tool Adobe Fuse verwenden, mit dem man relativ anspruchsvolle Charaktermodelle und dazugehörige Animationen erstellen konnte. 
+<h4>Stundenaufwand: 2:00</h4>
+  
+Heute haben wir damit begonnen, ein kleines Terrain in Unity zu modellieren und überlegt, wie wir einen eigenen Charakter für die Spielwelt umsetzen können. Da wir große Fans der Creative Cloud von Adobe sind, wollten wir das sich noch in der Beta befindene Tool Adobe Fuse verwenden, mit dem man relativ anspruchsvolle Charaktermodelle und dazugehörige Animationen erstellen konnte. 
  
 <h3 id="zweinulleinszwei">20.12.18 - Zuhause</h3>
-  <h4>Stundenaufwand: 3:30</h4>
-  
-  Charakter fertiggestellt und Animiert in Fuse und maximo + Vorwärts, Seitwärts und Rückwärtslaufen in Unity - Controller geschriebeben (PlayerController) + Kamera soll Charakter verfolgen, geschrieben (Cameracontroller)
+<h4>Stundenaufwand: 3:30</h4>
+
+Nach einigen veränderungen haben wir nun endlich den Charakter fertiggestellt. Als nächsten Schritt haben wir diesen dann in Maximo mit verschiedenen Animationen versehen, eine vorwärts, eine rückwärts und 2 seitwärts-Animationen.
+
+Parallel haben wir in Unity einen PlayerController erstellt. Das ist das C#-Programm, das für die Bewegung des Charakters in alle Richtungen verantwortlich ist. 
+
+Charakter fertiggestellt und Animiert in Fuse und maximo + Vorwärts, Seitwärts und Rückwärtslaufen in Unity - Controller geschriebeben (PlayerController) + Kamera soll Charakter verfolgen, geschrieben (Cameracontroller)
+
 <h3 id="zweieinseinszwei">21.12.18 - Zuhause</h3>
-  <h5>Stundenaufwand: 2:45</h5>
+<h4>Stundenaufwand: 2:45</h4>
   
-  Charakter mit Animationen ausgestattet, Übergänge zwischen den Animationen, Sprinten-Funktion
+Charakter mit Animationen ausgestattet, Übergänge zwischen den Animationen, Sprinten-Funktion
   
 <h3 id="zweizweieinszwei">22.12.18 - Zuhause</h3>
 <h4>Stundenaufwand: 1:00</h4>
