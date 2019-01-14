@@ -8,7 +8,7 @@ Das Projekt:
 Heute haben wir uns mit der Ideenfindung beschäftigt. Nachdem wir das letzte Mal ein Hardwarelastiges Projekt gemacht haben, wollten wir diesmal eher ein Projekt mit Fokus auf Software erstellen. 
 
 <h3 id="einsachteinszwei">18.12.18 - Unterricht</h3>
-  <h5>Stundenaufwand: 1:30/h5>  
+  <h5>Stundenaufwand: 1:30</h5>  
   
 Nach einiger Zeit einigten wir uns darauf, keine App, sondern ein Computerprogramm, näher gesagt ein Computerspiel zu programmieren. Da wir schon Erfahrung mit der Unity Engine hatten, beschlossen wir, diese für unser Projekt zu nutzen. Zudem ist die deutlich benutzerfreundlicher als z.B. die Unreal Engine und hat ebenfalls eine deutlich größere Community mit einer größeren Anzahl an Lernvideos.
   
