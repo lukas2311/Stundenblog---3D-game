@@ -3,7 +3,7 @@ Das Projekt:
 <b>Stundenaufwand: ### Stunden</b>
 
 <h3 id="einssiebeneinszwei">17.12.18 - Unterricht</h3>
-  <h5>Stundenaufwand: 0:45</h5>
+  <h4>Stundenaufwand: 0:45</h4>
   
 Heute haben wir uns mit der Ideenfindung beschäftigt. Nachdem wir das letzte Mal ein Hardwarelastiges Projekt gemacht haben, wollten wir diesmal eher ein Projekt mit Fokus auf Software erstellen. 
 
