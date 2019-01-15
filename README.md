@@ -72,6 +72,22 @@ neue wasser textur rausgesucht und wasser asset damit geupdated
 
 <h3 id="einsviernulleinsz">14.01.19 - Zuhause</h3>
 
-<h4>Stundenaufwand: 1:00</h4>
-Was haben sie gemacht SIR? Ich habe öööhhhh einen Busch modelliert, liegenden Baumstamm modelliert und Stein Modelliert. Schöfferhofer weizen SPRITZ!
+<h4>Stundenaufwand: 8:00</h4>
+Was haben sie gemacht SIR? Ich habe öööhhhh einen Busch modelliert, liegenden Baumstamm modelliert und Stein Modelliert. Schöfferhofer weizen SPRITZ! Holztreppe modelliert, erste Insel geTERRAformed, nen Strand geformt und ästetisch ansprechend gestalallllaaaaaltet.
+
+Steine für den Weg modelliert.
+
+Wir haben eine rudimentäre Kameraführung implementiert. Zudem haben wir eine Funktion geschrieben, die prüft, ob sich der Charakter auf dem  Boden befindet. 
+
+
+<h3 id="einsfuenfnulleinsz">15.01.19 - Unterricht</h3>
+<h4>Stundenaufwand: 3:00</h4>
+
+Inseloberfläche geformt, modellierte Gegenstände auf der Insel platziert, Steine um Insel, Weg.
+
+
+<h3 id="einsfuenfnulleins">15.01.19 - Unterricht</h3>
+<h4>Stundenaufwand: 01:30</h4>
+
+Heute haben wir uns weiter mit der Kameraführung beschäftigt. Dabei standen wir vor allem vor dem Problem, dass die Kamera der Bewegung aktuell nur bedingt folgt. Wir wollten aller
 
