@@ -26,34 +26,40 @@ Da uns der Low-Poly-Cartoon-Stil zusagte, wollten wir diesen auch in unserem Pro
 <h3 id="einsneuneinszwei">19.12.18 - Zuhause</h3>
 <h4>Stundenaufwand: 2:00</h4>
   
-Heute haben wir damit begonnen, ein kleines Terrain in Unity zu modellieren und überlegt, wie wir einen eigenen Charakter für die Spielwelt umsetzen können. Da wir große Fans der Creative Cloud von Adobe sind, wollten wir das sich noch in der Beta befindene Tool Adobe Fuse verwenden, mit dem man relativ anspruchsvolle Charaktermodelle und dazugehörige Animationen erstellen konnte. 
+Heute haben wir damit begonnen, ein kleines Terrain in Unity zu modellieren und überlegt, wie wir einen eigenen Charakter für die Spielwelt umsetzen können. Da wir große Fans der Creative Cloud von Adobe sind, wollten wir das sich noch in der Beta befindene Tool Adobe Fuse verwenden, mit dem man relativ anspruchsvolle Charaktermodelle und dazugehörige Animationen erstellen konnte. Dabei lassen sich sowohl Körperform und Kleidung, als auch detailgetreu der Gesichtsausdruck, sowie Haarfarben, Augenfarbe usw. den persönlichen Wünschen anpassen. Diese weite Reihe an Funktionen nutzten wir, um zunächst einen Testcharakter zu erstellen.
  
 <h3 id="zweinulleinszwei">20.12.18 - Zuhause</h3>
 <h4>Stundenaufwand: 3:30</h4>
 
-Nach einigen veränderungen haben wir nun endlich den Charakter fertiggestellt. Als nächsten Schritt haben wir diesen dann in Maximo mit verschiedenen Animationen versehen, eine vorwärts, eine rückwärts und 2 seitwärts-Animationen.
+Nach einigen veränderungen haben wir nun endlich den Charakter fertiggestellt. Als nächsten Schritt haben wir diesen dann in Maximo mit verschiedenen Animationen versehen, eine vorwärts, eine rückwärts und 2 seitwärts-Animationen. Diese lassen sich dort direkt auf den Charakter anwenden und testen. 
 
-Parallel haben wir in Unity einen PlayerController erstellt. Das ist das C#-Programm, das für die Bewegung des Charakters in alle Richtungen verantwortlich ist. 
-
-Charakter fertiggestellt und Animiert in Fuse und maximo + Vorwärts, Seitwärts und Rückwärtslaufen in Unity - Controller geschriebeben (PlayerController) + Kamera soll Charakter verfolgen, geschrieben (Cameracontroller)
+Parallel haben wir in Unity einen PlayerController erstellt. Das ist das C#-Programm, das für die Bewegung des Charakters in alle Richtungen verantwortlich ist. Besonders wichtig war hierbei, dass auch eine Sprint-Funktion eigebaut wird, die allerdings nur mit dem Drücken der Shift-Taste UND der W-Taste aktiviert wird. Die nächsten Minuten vebrachten wir daher damit, Sprinten nur beim Vorwärtslaufen möglich zu machen
 
 <h3 id="zweieinseinszwei">21.12.18 - Zuhause</h3>
 <h4>Stundenaufwand: 2:45</h4>
   
 Charakter mit Animationen ausgestattet, Übergänge zwischen den Animationen, Sprinten-Funktion
+
+Als nächstes haben wir die zuvor in Fuse und Maximo erstellten Animationen und Modelle in Unity importiert. Dann ging es daran, die Animationen an bestimmte Aktionen zu koppeln: Die Lauf-Animation an das Drücken der W-Taste oder die Sprint-Animation an das Drücken der W- und der Shift-Taste. Um das zu bewerkstelligen nutzten wir den Unity Animator, der eine bedingte Animation ermöglicht: Wir haben also ein Script geschrieben, in welchem verschiedene Tastaturaktionen abgefragt werden. An dieses Script lässt sich dann im Unity Animator eine Aktion, in diesem Fall das Abspielen der Vorwärts-Animation koppeln. Nachdem wir dort eine Weile rumprobiert haben, waren wir mit dem Ergebnis zufrieden.
+
+Einer der Vorteile des Unity-Animator ist der Übergang zwischen den Animationen. Diese erstellt dieser automatisch, was einen weichen Übergang zwischen den einzelnen Animationen ermöglicht. 
   
 <h3 id="zweizweieinszwei">22.12.18 - Zuhause</h3>
 <h4>Stundenaufwand: 1:00</h4>
 
-Verhindert, dass der Charakter so kake nach hinten rollt. An der Dokumentation gearbeitet. Noch die animation gefixt: vorher konnte man shift halten und hat auch beim seitwärtsgehen die sprint animation gesehen. Habe also noch eine connection im animator gesetzt und jetzt kann die animation nur beim vorwärtslaufen abgespielt werden.
+Da wir den Charakter mit einem Capsule-Collider ausgestattet haben, hatte dieser in einer dreidimensionalen Welt auch die Eigenschaften einer Kapsel: Er rollte also Berge zum Teil einfach rückwärts runter! Um dieses Problem zu lösen, haben wir die Rotation-Funktion des Charakters deaktiviert.
+
+Zudem haben wir damit begonnen, die ersten Schritte unseres Projektes in unsere Projektseite zu übernehmen. Da bedeutet, wir haben ein Github-Repository erstellt und mit einer Readme.txt ausgestattet. Zudem haben wir unser Vorgehen in Adobe Fuse, in Maximo und die ersten Schritte im Unity-Animator mit aufgennommen.
 
 <h3 id="zweiachteinszwei">28.12.18 - Zuhause</h3>
 <h4>Stundenaufwand: 4:00</h4>
-- Blender Einführung/Tests + Stein
+
+Heute haben wir mit der näheren Ausführung unseres Designentwurfes beschäftigt. Dafür haben wir das 3D-Modellierungs-Tool Blender genutzt und zunächst darin einige Versuche getätigt, um uns mit dessen Funktionsweise zu beschäftigen. Zudem haben wir mit einzelnen Objekten, wie einem Stein, erste Modellierugnsversuche für unser Projekt erstellt.
 
 <h3 id="nullsiebennulleins">07.01.19 - Zuhause</h3>
 <h4>Stundenaufwand: 1:00</h4>
-Tanne Blender
+
+Desweiteren haben wir heute eine Tanne und einige weitere Baumarten modelliert. Diese sollen später auf dem Terrain in Unity platziert werden und dem grafischen Bild genügen.
 
 <h3 id="nullachtnulleinsz">08.01.19 - Zuhause</h3>
 <h4>Stundenaufwand: 1:00</h4>
@@ -80,7 +86,7 @@ Steine für den Weg modelliert.
 Wir haben eine rudimentäre Kameraführung implementiert. Zudem haben wir eine Funktion geschrieben, die prüft, ob sich der Charakter auf dem  Boden befindet. 
 
 
-<h3 id="einsfuenfnulleinsz">15.01.19 - Unterricht</h3>
+<h3 id="einsfuenfnulleinsz">15.01.19 - Zuhause</h3>
 <h4>Stundenaufwand: 3:00</h4>
 
 Inseloberfläche geformt, modellierte Gegenstände auf der Insel platziert, Steine um Insel, Weg.
@@ -88,6 +94,7 @@ Inseloberfläche geformt, modellierte Gegenstände auf der Insel platziert, Stei
 
 <h3 id="einsfuenfnulleins">15.01.19 - Unterricht</h3>
 <h4>Stundenaufwand: 01:30</h4>
+Heute haben wir einen weiteren Test von einem Game-Export getätigt:
 
-Heute haben wir uns weiter mit der Kameraführung beschäftigt. Dabei standen wir vor allem vor dem Problem, dass die Kamera der Bewegung aktuell nur bedingt folgt. Wir wollten aller
+In diesem Fall haben wir uns weiter mit der Kameraführung beschäftigt. Dabei standen wir vor allem vor dem Problem, dass die Kamera der Bewegung aktuell nur bedingt folgt. Zudem war die Kameraführung mittels der Maus noch sehr schwierig zu bedienen 
 
