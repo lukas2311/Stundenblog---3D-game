@@ -19,7 +19,7 @@ Nun haben wir begonnen, uns (erneut) in Unity und die neuesten Updates einzulese
   
 Gleichzeitig haben wir uns darauf geeinigt, wie wir das Projekt umsetzen wollen. Zum einen hatten wir den Anspruch, sämtliche Modelle und Objekte selber zu modellieren, zum anderen einen gewissen Grafischen Standart zu erfüllen. Um das zu erreichen, recherchierten wir nach einen angemessenen Stil für unser Projekt und sind unter anderem auf folgende Zwei beispiele getroffen:
   
-<p align="center"><img width="600px" href="https://user-images.githubusercontent.com/42578917/51188668-b29dc080-18de-11e9-9426-00ceb5bcf1d1.jpg"></p>
+<p align="center"><img width="600px" src="https://user-images.githubusercontent.com/42578917/51188668-b29dc080-18de-11e9-9426-00ceb5bcf1d1.jpg"></p>
 
 Da uns der Low-Poly-Cartoon-Stil zusagte, wollten wir diesen auch in unserem Projekt umsetzen. Als Modellierungssoftware wollten wir dabei Blender verwenden. Blender vor allem deshalb, da es eine Freeware ist und es daher sehr weit verbreitet ist und es große Mengen an Informationen und Tutorials gibt.
   
