@@ -98,3 +98,7 @@ Heute haben wir einen weiteren Test von einem Game-Export getätigt:
 
 In diesem Fall haben wir uns weiter mit der Kameraführung beschäftigt. Dabei standen wir vor allem vor dem Problem, dass die Kamera der Bewegung aktuell nur bedingt folgt. Zudem war die Kameraführung mittels der Maus noch sehr schwierig zu bedienen 
 
+<h3 id="zweieinsnulleins">21.01.19 - Unterricht</h3>
+<h4>Stundenaufwand: 0:45</h4>
+
+Am Stundenblog gearbeitet und etwas weitergeplant
