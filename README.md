@@ -110,6 +110,7 @@ An der Dokumentation weitergerarbeitet. Dafür gesorgt dass die Maus verschwinde
 
 
 <h3 id="zweidreinulleins">23.01.19 - Zuhause</h3>
+<h4>Stundenaufwand: 03:30</h4>
 
 Problem mit der Maus beim Pause Menü gefixed, viel an der Dokumenation weitergearbeitetl; Einen Kaktus für die Wüste Modelliert, die start insel weiter designes, eigene Texturen für grashalme und boden sowie sand / gras erstellt. 
 
