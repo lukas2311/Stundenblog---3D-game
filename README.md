@@ -109,3 +109,7 @@ Am Stundenblog gearbeitet und etwas weitergeplant
 An der Dokumentation weitergerarbeitet. Dafür gesorgt dass die Maus verschwindet inGame und da ist, wenn man im Menü ist
 
 
+<h3 id="zweidreinulleins">23.01.19 - Zuhause</h3>
+
+Problem mit der Maus beim Pause Menü gefixed, viel an der Dokumenation weitergearbeitetl; Einen Kaktus für die Wüste Modelliert, die start insel weiter designes, eigene Texturen für grashalme und boden sowie sand / gras erstellt. 
+
