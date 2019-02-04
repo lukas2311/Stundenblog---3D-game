@@ -59,6 +59,8 @@ Heute haben wir mit der näheren Ausführung unseres Designentwurfes beschäftig
 <h3 id="nullsiebennulleins">07.01.19 - Zuhause</h3>
 <h4>Stundenaufwand: 1:00</h4>
 
+
+
 Desweiteren haben wir heute eine Tanne und einige weitere Baumarten modelliert. Diese sollen später auf dem Terrain in Unity platziert werden und dem grafischen Bild genügen.
 
 <h3 id="nullachtnulleinsz">08.01.19 - Zuhause</h3>
@@ -79,6 +81,9 @@ neue wasser textur rausgesucht und wasser asset damit geupdated
 <h3 id="einsviernulleinsz">14.01.19 - Zuhause</h3>
 
 <h4>Stundenaufwand: 8:00</h4>
+
+
+
 Was haben sie gemacht SIR? Ich habe öööhhhh einen Busch modelliert, liegenden Baumstamm modelliert und Stein Modelliert. Schöfferhofer weizen SPRITZ! Holztreppe modelliert, erste Insel geTERRAformed, nen Strand geformt und ästetisch ansprechend gestalallllaaaaaltet.
 
 Steine für den Weg modelliert.
