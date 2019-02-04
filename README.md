@@ -114,3 +114,15 @@ An der Dokumentation weitergerarbeitet. Dafür gesorgt dass die Maus verschwinde
 
 Problem mit der Maus beim Pause Menü gefixed, viel an der Dokumenation weitergearbeitetl; Einen Kaktus für die Wüste Modelliert, die start insel weiter designes, eigene Texturen für grashalme und boden sowie sand / gras erstellt. 
 
+<h3 id="zweineunnulleins">29.01.19 - Unterricht</h3>
+<h4>Stundenaufwand: 01:30</h4>
+
+Ööööhhmm. Dokumentation, weiter am terrain gemodelllllllllllllltttttteeeetttetetetetet. Das wars
+
+<h3 id="nullviernullzwei">04.02.19 - Unterricht</h3>
+<h4>Stundenaufwand: 0:45</h4>
+
+Wir haben unsere Dokumentation fortgesetzt und unser Stundenprotokoll gepflegt. Wie ne alte oma die sich eingeschissen hat
+
+
+<h3 id="
