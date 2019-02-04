@@ -4,26 +4,26 @@ Das Projekt:
 
 <h1>Inhaltsverzeichnis</h1>
 <ul>
-  <li><a href="#">17.12.18 - Unterricht<a></li>
-  <li><a href="#">18.12.18 - Unterricht<a></li>
-  <li><a href="#">18.12.18 - Zuhause<a></li>
-  <li><a href="#">19.12.18 - Zuhause<a></li>
-  <li><a href="#">20.12.18 - Zuhause<a></li>
-  <li><a href="#">21.12.18 - Zuhauset<a></li>
-  <li><a href="#">22.12.18 - Zuhause<a></li>
-  <li><a href="#">28.12.18 - Zuhause<a></li>
-  <li><a href="#">07.01.19 - Zuhause<a></li>
-  <li><a href="#">08.01.19 - Zuhause<a></li>
-  <li><a href="#">08.01.19 - Unterricht<a></li>
-  <li><a href="#">09.01.19 - Zuhause<a></li>
-  <li><a href="#">14.01.19 - Zuhause<a></li>
-  <li><a href="#">15.01.19 - Zuhause<a></li>
-  <li><a href="#">15.01.19 - Unterricht<a></li>
-  <li><a href="#">21.01.19 - Unterricht<a></li>
-  <li><a href="#">22.01.19 - Unterricht<a></li>
-  <li><a href="#">23.01.19 - Zuhause<a></li>
-  <li><a href="#">29.01.19 - Unterricht<a></li>
-  <li><a href="#">04.02.19 - Unterricht<a></li>
+  <li><a href="#einssiebeneinszwei">17.12.18 - Unterricht<a></li>
+  <li><a href="#einsachteinszwei">18.12.18 - Unterricht<a></li>
+  <li><a href="#einsachteinszweiz">18.12.18 - Zuhause<a></li>
+  <li><a href="#einsneuneinszwei">19.12.18 - Zuhause<a></li>
+  <li><a href="#zweinulleinszwei">20.12.18 - Zuhause<a></li>
+  <li><a href="#zweieinseinszwei">21.12.18 - Zuhause<a></li>
+  <li><a href="#zweizweieinszwei">22.12.18 - Zuhause<a></li>
+  <li><a href="#zweiachteinszwei">28.12.18 - Zuhause<a></li>
+  <li><a href="#nullsiebennulleins">07.01.19 - Zuhause<a></li>
+  <li><a href="#nullachtnulleinsz">08.01.19 - Zuhause<a></li>
+  <li><a href="#nullachtnulleins">08.01.19 - Unterricht<a></li>
+  <li><a href="#nullneunnulleins">09.01.19 - Zuhause<a></li>
+  <li><a href="#einsviernulleinsz">14.01.19 - Zuhause<a></li>
+  <li><a href="#einsfuenfnulleinsz">15.01.19 - Zuhause<a></li>
+  <li><a href="#einsfuenfnulleins">15.01.19 - Unterricht<a></li>
+  <li><a href="#zweieinsnulleins">21.01.19 - Unterricht<a></li>
+  <li><a href="#zweizweinulleins">22.01.19 - Unterricht<a></li>
+  <li><a href="#zweidreinulleins">23.01.19 - Zuhause<a></li>
+  <li><a href="#zweineunnulleins">29.01.19 - Unterricht<a></li>
+  <li><a href="#nullviernullzwei">04.02.19 - Unterricht<a></li>
 </ul>
 
 
