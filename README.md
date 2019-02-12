@@ -84,9 +84,7 @@ Heute haben wir mit der näheren Ausführung unseres Designentwurfes beschäftig
 <h3 id="nullsiebennulleins">07.01.19 - Zuhause</h3>
 <h4>Stundenaufwand: 1:00</h4>
 
-
-
-Desweiteren haben wir heute eine Tanne und einige weitere Baumarten modelliert. Diese sollen später auf dem Terrain in Unity platziert werden und dem grafischen Bild genügen.
+Desweiteren haben wir heute eine Tanne und einige weitere Baumarten modelliert. Diese sollen später auf dem Terrain in Unity platziert werden und dem grafischen Bild genügen. Schwierig daran war vor allem, die Bäume entsprechend unserer Design-Vorstellung entsprechend zu modellieren. Dafür müssten sie sowohl einen Comic Stil haben, als auch detailliert genug sein, um noch weiterhin in die Welt zu passen. Zudem mussten wir dafür Texturen erstellen, die zu unserem Stil passten und diese an die Objekte 
 
 <h3 id="nullachtnulleinsz">08.01.19 - Zuhause</h3>
 <h4>Stundenaufwand: 1:00</h4>
@@ -151,4 +149,8 @@ Problem mit der Maus beim Pause Menü gefixed, viel an der Dokumenation weiterge
 Wir haben unsere Dokumentation fortgesetzt und unser Stundenprotokoll gepflegt. Wie ne alte oma die sich eingeschissen hat
 
 
-<h3 id="
+<h3 id="einszweinullzwei">12.02.19 - Unterricht</h3>
+<h4>Stundenaufwand: 01:30</h4>
+
+Wir haben an der Dokumentation gearbietet
+
