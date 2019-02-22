@@ -154,3 +154,7 @@ Wir haben unsere Dokumentation fortgesetzt und unser Stundenprotokoll gepflegt. 
 
 Wir haben an der Dokumentation gearbietet
 
+<h3 id="einsneunnullzwei">19.02.19 - Unterricht</h3>
+<h4>Stundenaufwand: 01:30</h4>
+
+Wir haben an der Dokumentation gearbeitet und ein Pickup script begonnen. Zudem haben wir probleme beim Jump script gefixt
