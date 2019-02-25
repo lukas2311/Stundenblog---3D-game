@@ -154,7 +154,16 @@ Wir haben unsere Dokumentation fortgesetzt und unser Stundenprotokoll gepflegt. 
 
 Wir haben an der Dokumentation gearbietet
 
+<h3 id="einssechsnullzwei">12.02.19 - Unterricht</h3>
+<h4>Stundenaufwand: 07:00</h4>
+Zwischeninsel, Palme and stuff
+
 <h3 id="einsneunnullzwei">19.02.19 - Unterricht</h3>
 <h4>Stundenaufwand: 01:30</h4>
 
 Wir haben an der Dokumentation gearbeitet und ein Pickup script begonnen. Zudem haben wir probleme beim Jump script gefixt
+
+<h3 id="zweizweinullzwei">22.02.19 - Zuhause</h3>
+<h4>Stundenaufwand: 2:30</h4>
+
+ICH habe den KEy Implementiert unjd den Stundenblog und doku gepflegt und torben hatg irgendwas modelliert einen key glaube ich jo.
