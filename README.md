@@ -167,3 +167,23 @@ Wir haben an der Dokumentation gearbeitet und ein Pickup script begonnen. Zudem 
 <h4>Stundenaufwand: 2:30</h4>
 
 ICH habe den KEy Implementiert unjd den Stundenblog und doku gepflegt und torben hatg irgendwas modelliert einen key glaube ich jo.
+
+<h3 id="nulleinsnulldrei">01.03.19 - Unterricht</h3>
+<h4>Stundenaufwand: 2:00</h4>
+
+vergessen
+
+<h3 id="nullviernulldrei">04.03.19 - Unterricht</h3>
+<h4>Stundenaufwand: 0:45</h4>
+
+Dokumentation Bilder Blender
+
+<h3 id="nullviernulldreiz">04.03.19 - Zuhause</h3>
+<h4>Stundenaufwand: 3:00</h4>
+
+Musik + Musik Zonen + wie funktionieren sound effekte
+
+<h3 id="nullfünfnulldrei">05.03.19 - Unterricht</h3>
+<h4>Stundenaufwand: 1:30</h4>
+
+Healthbar + Musik
