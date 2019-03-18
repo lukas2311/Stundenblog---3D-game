@@ -23,6 +23,16 @@
   <li><a href="#zweidreinulleins">23.01.19 - Zuhause<a></li>
   <li><a href="#zweineunnulleins">29.01.19 - Unterricht<a></li>
   <li><a href="#nullviernullzwei">04.02.19 - Unterricht<a></li>
+  <li><a href="#einszweinullzwei">12.02.19 -Unterricht</a></li>
+  <li><a href="#einszweinullzweiz">12.02.19-Zuhause</a></li>
+  <li><a href="#einsneunnullzwei">19.02.19 - Unterricht</a></li>
+  <li><a href="#zweizweinullzwei">22.02.19-Zuhause</a></li>
+  <li><a href="nulleinsnulldreiz">01.03.19 - Zuhause</a></li>
+  <li><a href="#nullviernulldrei">04.03.19 - Unterricht</a></li>
+  <li><a href="#nullviernulldreiz">04.03.19 - Zuhause</a></li>
+  <li><a href="#nullfünfnulldrei">05.03.19 - Unterricht</a></li>
+  <li><a href="#nullfünfnulldreiz>05.03.19 - Zuhause</a></li>
+  <li><a href="#einsachtnulldrei">18.03.19 - Unterricht</a></li>
 </ul>
 
 
@@ -153,7 +163,7 @@ Wir haben unsere Dokumentation fortgesetzt und unser Stundenprotokoll gepflegt. 
 
 Wir haben an der Dokumentation gearbietet
 
-<h3 id="einssechsnullzwei">12.02.19 - Unterricht</h3>
+<h3 id="einssechsnullzwei">12.02.19 - Zuhause</h3>
 <h4>Stundenaufwand: 07:00</h4>
 Zwischeninsel, Palme and stuff
 
@@ -167,7 +177,7 @@ Wir haben an der Dokumentation gearbeitet und ein Pickup script begonnen. Zudem 
 
 ICH habe den KEy Implementiert unjd den Stundenblog und doku gepflegt und torben hatg irgendwas modelliert einen key glaube ich jo.
 
-<h3 id="nulleinsnulldrei">01.03.19 - Unterricht</h3>
+<h3 id="nulleinsnulldrei">01.03.19 - Zuhause</h3>
 <h4>Stundenaufwand: 2:00</h4>
 
 vergessen
