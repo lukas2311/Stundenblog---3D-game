@@ -39,7 +39,7 @@
 <h3 id="einssiebeneinszwei">17.12.18 - Unterricht</h3>
 <h4>Stundenaufwand: 0:45</h4>
   
-Heute haben wir uns mit der Ideenfindung beschäftigt. Nachdem wir das letzte Mal ein Hardwarelastiges Projekt gemacht haben, wollten wir diesmal eher ein Projekt mit Fokus auf Software erstellen. Dabei kamen (unseren Programmierkenntnissen entsprechend) nur eine Smartphone App, ein Computerprogramm oder ein Videospiel in Frage...
+Heute haben wir uns mit der Ideenfindung beschäftigt. Nachdem wir das letzte Mal ein Hardwarelastiges Projekt gemacht haben, wollten wir diesmal eher ein Projekt mit Fokus auf Software erstellen. Dabei kamen (unseren Programmierkenntnissen entsprechend) nur eine Smartphone App, ein Computerprogramm oder ein Videospiel in Frage.
 
 <h3 id="einsachteinszwei">18.12.18 - Unterricht</h3>
 <h4>Stundenaufwand: 1:30</h4>  
@@ -51,11 +51,11 @@ Nach einiger Zeit einigten wir uns darauf, keine App, sondern ein Computerprogra
 
 Nun haben wir begonnen, uns (erneut) in Unity und die neuesten Updates einzulesen und im Zweifel vorhandenes Wissen aufgefrischt. Zudem haben wir mit der Installation der Unity Engine, sowie einigen Assets begonnen und das Programm eingerichtet, in Unity eingelesen, vorhandenes Wissen aufgefrischt und alles installiert.
   
-Gleichzeitig haben wir uns darauf geeinigt, wie wir das Projekt umsetzen wollen. Zum einen hatten wir den Anspruch, sämtliche Modelle und Objekte selber zu modellieren, zum anderen einen gewissen Grafischen Standart zu erfüllen. Um das zu erreichen, recherchierten wir nach einen angemessenen Stil für unser Projekt und sind unter anderem auf folgende Zwei beispiele getroffen:
+Gleichzeitig haben wir uns darauf geeinigt, wie wir das Projekt umsetzen wollen. Zum einen hatten wir den Anspruch, sämtliche Modelle und Objekte selber zu modellieren, zum anderen einen gewissen Grafischen Standart zu erfüllen. Um das zu erreichen, recherchierten wir nach einen angemessenen Stil für unser Projekt und sind unter anderem auf folgende zwei Beispiele getroffen:
   
 <p align="center"><img width="600px" src="https://user-images.githubusercontent.com/42578917/51188668-b29dc080-18de-11e9-9426-00ceb5bcf1d1.jpg"></p>
 
-Da uns der Low-Poly-Cartoon-Stil zusagte, wollten wir diesen auch in unserem Projekt umsetzen. Als Modellierungssoftware wollten wir dabei Blender verwenden. Blender vor allem deshalb, da es eine Freeware ist und es daher sehr weit verbreitet ist und es große Mengen an Informationen und Tutorials gibt.
+Da uns der Low-Poly-Cartoon-Stil zusagte und unserem Niveau entspricht, wollten wir diesen auch in unserem Projekt umsetzen. Als Modellierungssoftware wollten wir dabei Blender verwenden. Blender vor allem deshalb, da es eine Freeware ist und es daher sehr weit verbreitet ist und es große Mengen an Informationen und Tutorials gibt.
   
 <h3 id="einsneuneinszwei">19.12.18 - Zuhause</h3>
 <h4>Stundenaufwand: 2:00</h4>
@@ -65,7 +65,7 @@ Heute haben wir damit begonnen, ein kleines Terrain in Unity zu modellieren und 
 <h3 id="zweinulleinszwei">20.12.18 - Zuhause</h3>
 <h4>Stundenaufwand: 3:30</h4>
 
-Nach einigen veränderungen haben wir nun endlich den Charakter fertiggestellt. Als nächsten Schritt haben wir diesen dann in Maximo mit verschiedenen Animationen versehen, eine vorwärts, eine rückwärts und 2 seitwärts-Animationen. Diese lassen sich dort direkt auf den Charakter anwenden und testen. 
+Nach einigen Veränderungen haben wir nun endlich den Charakter fertiggestellt. Als nächsten Schritt haben wir diesen dann in Maximo mit verschiedenen Animationen versehen, eine vorwärts, eine rückwärts und 2 seitwärts-Animationen. Diese lassen sich dort direkt auf den Charakter anwenden und testen. 
 
 Parallel haben wir in Unity einen PlayerController erstellt. Das ist das C#-Programm, das für die Bewegung des Charakters in alle Richtungen verantwortlich ist. Besonders wichtig war hierbei, dass auch eine Sprint-Funktion eigebaut wird, die allerdings nur mit dem Drücken der Shift-Taste UND der W-Taste aktiviert wird. Die nächsten Minuten vebrachten wir daher damit, Sprinten nur beim Vorwärtslaufen möglich zu machen
 
