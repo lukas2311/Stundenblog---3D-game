@@ -91,17 +91,17 @@ Zudem haben wir damit begonnen, die ersten Schritte unseres Projektes in unsere 
 Heute haben wir mit der näheren Ausführung unseres Designentwurfes beschäftigt. Dafür haben wir das 3D-Modellierungs-Tool Blender genutzt und zunächst darin einige Versuche getätigt, um uns mit dessen Funktionsweise zu beschäftigen. Zudem haben wir mit einzelnen Objekten, wie einem Stein, erste Modellierugnsversuche für unser Projekt erstellt.
 
 <h3 id="nullsiebennulleins">07.01.19 - Zuhause</h3>
-<h4>Stundenaufwand: 1:00</h4>
+<h4>Stundenaufwand: 2:00</h4>
 
-Desweiteren haben wir heute eine Tanne und einige weitere Baumarten modelliert. Diese sollen später auf dem Terrain in Unity platziert werden und dem grafischen Bild genügen. Schwierig daran war vor allem, die Bäume entsprechend unserer Design-Vorstellung entsprechend zu modellieren. Dafür müssten sie sowohl einen Comic Stil haben, als auch detailliert genug sein, um noch weiterhin in die Welt zu passen. Zudem mussten wir dafür Texturen erstellen, die zu unserem Stil passten und diese an die Objekte 
+Desweiteren haben wir heute eine Tanne modelliert. Diese sollen später auf dem Terrain in Unity platziert werden und dem grafischen Bild genügen. Schwierig daran war vor allem, die Bäume entsprechend unserer Design-Vorstellung entsprechend zu modellieren. Dafür müssten sie sowohl einen Comic Stil haben, als auch detailliert genug sein, um noch weiterhin in die Welt zu passen. Zudem mussten wir dafür Texturen erstellen, die zu unserem Stil passten und diese an die Objekte 
 
 <h3 id="nullachtnulleinsz">08.01.19 - Zuhause</h3>
-<h4>Stundenaufwand: 1:00</h4>
-Anderer Baum Blender
+<h4>Stundenaufwand: 2:00</h4>
+Heute haben wir weiter an einem zum Stil passenden Baum gearbeitet. Die Tanne hat weder zur Inselart noch zum Stil gepasst weshalb wir diese verworfen haben. Der neue Baum ist detailreicher und passt farblich besser zur Insel. Diesen haben wir erstmals in Unity eingefügt.
 
 <h3 id="nullachtnulleins">08.01.19 - Unterricht</h3>
-<h4>Stundenaufwand: 1:00</h4>
-Playtest + Baum Style + Map größe
+<h4>Stundenaufwand: 1:30</h4>
+Heute haben wir einen ersten Playtest betrieben. Dabei haben wir festgestellt, dass wir weiter an der Kameraführung arbeiten müssen, außerdem haben wir das Terrain weiter bearbeitet um etwas mehr Abwechslung in die Insel zu bekommen, desweiteren haben wir über weitere Details wie Büsche und Steine gesprochen.
 
 <h3 id="nullneunnulleins">09.01.19 - Zuhause</h3>
 <h4>Stundenaufwand: 1:00 + 2:00</h4>
@@ -204,4 +204,4 @@ Healthbar + Musik
 <h4>Stundenaufwand: 0:45</h4>
 
 gg alla
-------------------------------67 Stunden
+------------------------------69,5 Stunden
