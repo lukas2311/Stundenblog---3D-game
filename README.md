@@ -27,7 +27,7 @@
   <li><a href="#einssechsnullzwei">16.02.19-Zuhause</a></li>
   <li><a href="#einsneunnullzwei">19.02.19 - Unterricht</a></li>
   <li><a href="#zweizweinullzwei">22.02.19-Zuhause</a></li>
-  <li><a href="nulleinsnulldreiz">01.03.19 - Zuhause</a></li>
+  <li><a href="nulleinsnulldrei">01.03.19 - Zuhause</a></li>
   <li><a href="#nullviernulldrei">04.03.19 - Unterricht</a></li>
   <li><a href="#nullviernulldreiz">04.03.19 - Zuhause</a></li>
   <li><a href="#nullfünfnulldrei">05.03.19 - Unterricht</a></li>
