@@ -1,13 +1,6 @@
 # Stundenblog---WHYland --
 <b>Stundenaufwand: ### Stunden</b>
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-
-
 <h1>Inhaltsverzeichnis</h1>
 <ul>
   <li><a href="#einssiebeneinszwei">17.12.18 - Unterricht<a></li>
@@ -211,3 +204,4 @@ Healthbar + Musik
 <h4>Stundenaufwand: 0:45</h4>
 
 gg alla
+------------------------------67 Stunden
