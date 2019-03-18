@@ -185,7 +185,7 @@ vergessen
 <h3 id="nullviernulldrei">04.03.19 - Unterricht</h3>
 <h4>Stundenaufwand: 0:45</h4>
 
-Dokumentation Bilder Blender
+Heute haben wir erneut an der Dokumentation gearbeitet. Dabei haben wir vor allem Bilder eingepflegt in die Projektseite. Da wir für ein Objekt eine beispielhafte Modellierung zeigen wollten, um den groben Ablauf zu demonstrieren, haben wir einige Screenshots gemacht, während wir eine Palme modelliert haben. Diese haben wir dann heute bearbeitet, teilweise nebeneinander geschnitten und anschließend in die Projektseite eingebaut. 
 
 <h3 id="nullviernulldreiz">04.03.19 - Zuhause</h3>
 <h4>Stundenaufwand: 3:00</h4>
