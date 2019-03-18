@@ -1,8 +1,15 @@
 # Stundenblog---WHYland --
 <b>Stundenaufwand: ### Stunden</b>
 
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
+
 <h1>Inhaltsverzeichnis</h1>
-<ul style="display:inline;">
+<ul>
   <li><a href="#einssiebeneinszwei">17.12.18 - Unterricht<a></li>
   <li><a href="#einsachteinszwei">18.12.18 - Unterricht<a></li>
   <li><a href="#einsachteinszweiz">18.12.18 - Zuhause<a></li>
