@@ -198,4 +198,7 @@ Musik + Musik Zonen + wie funktionieren sound effekte
 Healthbar + Musik
 
 <h3 id="nullfünfnulldreiz">05.03.19 - Zuhause</h3>
-<h4>Stundenaufwand: 2:00</
+<h4>Stundenaufwand: 2:00</h4>
+  
+<h3 id="einsachtnulldrei">18.03.19 - Unterricht</h3>
+<h4>Stundenaufwand: 0:45</h4>
