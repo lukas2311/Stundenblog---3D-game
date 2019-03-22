@@ -203,5 +203,8 @@ Healthbar + Musik
 <h3 id="einsachtnulldrei">18.03.19 - Unterricht</h3>
 <h4>Stundenaufwand: 0:45</h4>
 
+<h3 id="zweizweinulldrei">22.03.19 - Zuhause</h3>
+<h4>Stundenaufwand: hehexd </h4>
+
 gg alla
 ------------------------------69,5 Stunden
