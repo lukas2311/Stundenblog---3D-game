@@ -33,6 +33,7 @@
   <li><a href="#nullfünfnulldrei">05.03.19 - Unterricht</a></li>
   <li><a href="#nullfünfnulldreiz">05.03.19 - Zuhause</a></li>
   <li><a href="#einsachtnulldrei">18.03.19 - Unterricht</a></li> 
+  <li><a href="#zweizweinulldrei">18.03.19 - Unterricht</a></li> 
 </ul>
 
 
@@ -159,46 +160,54 @@ In der heutigen Stunde haben wir an der Dokumentation gearbeitet und alle neuen 
 <h3 id="einssechsnullzwei">16.02.19 - Zuhause</h3>
 <h4>Stundenaufwand: 07:00</h4>
 
-Am heutigen Tag haben wir eine kleine Zwischeninsel gestaltet. Die dafür benötigten Palmen haben wir modelliert und jeden einzelnen Arbeitsschritt daran für die Dokumentation gescreenshotet. Außerdem haben wir weitere Gräser be
+Am heutigen Tag haben wir eine kleine Zwischeninsel gestaltet. Die dafür benötigten Palmen haben wir modelliert und jeden einzelnen Arbeitsschritt daran für die Dokumentation gescreenshotet. Außerdem haben wir weitere Gräser bearbeitet, die zur jeweiligen Umgebung besser passen. So konnten wir rote Gräser für die Wüste und lange etwas gelblichere Gräser ins Wasser platzieren.
 
 <h3 id="einsneunnullzwei">19.02.19 - Unterricht</h3>
 <h4>Stundenaufwand: 01:30</h4>
 
-Wir haben an der Dokumentation gearbeitet und ein Pickup script begonnen. Zudem haben wir probleme beim Jump script gefixt
+Heute haben wir an der Dokumentation gearbeitet und die Bilder von der Palme eingebunden. Zudem haben wir angefangen ein Script zu schreiben, wodurch der Charakter Gegenstände wie z.B. einen Schlüssel aufheben kann. Ergänzend haben wir ein Problem an unserem Sprungscript gelöst.
 
 <h3 id="zweizweinullzwei">22.02.19 - Zuhause</h3>
 <h4>Stundenaufwand: 2:30</h4>
 
-ICH habe den KEy Implementiert unjd den Stundenblog und doku gepflegt und torben hatg irgendwas modelliert einen key glaube ich jo.
+Heute haben wir Zuhause einen Schlüssel implementiert um zu Testen um das neu angefangene Script funktioniert. Diesen Schlüssel haben wir am selbigen Tag auch modelliert. Außerdem haben wir sowohl am Stundenprotokoll als auch an der Dokumentation weiter geschrieben.
 
 <h3 id="nulleinsnulldrei">01.03.19 - Zuhause</h3>
-<h4>Stundenaufwand: 2:00</h4>
+<h4>Stundenaufwand: 4:00</h4>
 
-vergessen
+Heute haben wir eine kaputte Brücke und ein Jump n Run von der ersten Insel zur Zwischeninsel gebaut. Außerdem haben wir versucht Ideen für die dritte Insel umzusetzten bzw. dessen Terrain zu formen. 
 
 <h3 id="nullviernulldrei">04.03.19 - Unterricht</h3>
 <h4>Stundenaufwand: 0:45</h4>
 
-Heute haben wir erneut an der Dokumentation gearbeitet. Dabei haben wir vor allem Bilder eingepflegt in die Projektseite. Da wir für ein Objekt eine beispielhafte Modellierung zeigen wollten, um den groben Ablauf zu demonstrieren, haben wir einige Screenshots gemacht, während wir eine Palme modelliert haben. Diese haben wir dann heute bearbeitet, teilweise nebeneinander geschnitten und anschließend in die Projektseite eingebaut. 
+Heute haben wir erneut an der Dokumentation gearbeitet. Dabei haben wir vor allem Bilder eingepflegt in die Projektseite.
 
 <h3 id="nullviernulldreiz">04.03.19 - Zuhause</h3>
-<h4>Stundenaufwand: 3:00</h4>
+<h4>Stundenaufwand: 8:00</h4>
 
+Um eine Atmosphäre fürs Spiel zu erschaffen, haben wir uns daran versucht Musik in unser Spiel zu implementieren. Dafür haben wir diese in FL Studio 20 erstellt und uns dann darüber informiert wie man Musikzonen erstellen kann, sodass jede Insel einen eigenen Soundtrack bekommen kann. Außerdem haben wir uns mit der Funktionsweise von Soundeffekten beschäftigt.
 Musik + Musik Zonen + wie funktionieren sound effekte
 
 <h3 id="nullfünfnulldrei">05.03.19 - Unterricht</h3>
 <h4>Stundenaufwand: 1:30</h4>
 
-Healthbar + Musik
+Heute haben wir ein Script für eine Lebensleiste geschrieben, damit durch später hinzukommende Gefahren der Schwierigkeitsgrad des Spiels erhöht wird. Außerdem haben wir weiterhin versucht Musikzonen einzubauen. Bisher mit wenig Erfolg.
 
 <h3 id="nullfünfnulldreiz">05.03.19 - Zuhause</h3>
 <h4>Stundenaufwand: 2:00</h4>
+
+Die Zeit heute haben wir genutzt um an der Dokumentation weiterzuarbeiten, sowie Stichpunkte aus dem Stundenprotokoll auszuformulieren.
   
 <h3 id="einsachtnulldrei">18.03.19 - Unterricht</h3>
 <h4>Stundenaufwand: 0:45</h4>
 
-<h3 id="zweizweinulldrei">22.03.19 - Zuhause</h3>
-<h4>Stundenaufwand: hehexd </h4>
+In der Unterrichtstunde heute haben wir an den Formulierungen in unserem Stundenprotokoll gearbeitet.
 
-gg alla
-------------------------------69,5 Stunden
+<h3 id="zweizweinulldrei">22.03.19 - Zuhause</h3>
+<h4>Stundenaufwand: 1:30</h4>
+
+Heute Nachmittag haben wir am Stundenprotokoll gearbeitet.
+
+
+
+------------------------------69,5 Stunden deutlich mehr Aldaaa, habe fehlende Stunden ergänzt....
