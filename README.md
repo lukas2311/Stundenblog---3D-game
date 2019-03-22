@@ -93,7 +93,7 @@ Heute haben wir mit der näheren Ausführung unseres Designentwurfes beschäftig
 <h3 id="nullsiebennulleins">07.01.19 - Zuhause</h3>
 <h4>Stundenaufwand: 2:00</h4>
 
-Desweiteren haben wir heute eine Tanne modelliert. Diese sollen später auf dem Terrain in Unity platziert werden und dem grafischen Bild genügen. Schwierig daran war vor allem, die Bäume entsprechend unserer Design-Vorstellung entsprechend zu modellieren. Dafür müssten sie sowohl einen Comic Stil haben, als auch detailliert genug sein, um noch weiterhin in die Welt zu passen. Zudem mussten wir dafür Texturen erstellen, die zu unserem Stil passten und diese an die Objekte 
+Desweiteren haben wir heute eine Tanne modelliert. Diese sollen später auf dem Terrain in Unity platziert werden und dem grafischen Bild genügen. Schwierig daran war vor allem, die Bäume entsprechend unserer Design-Vorstellung zu modellieren. Dafür müssten sie sowohl einen Comic Stil haben, als auch detailliert genug sein, um noch weiterhin in die Welt zu passen.
 
 <h3 id="nullachtnulleinsz">08.01.19 - Zuhause</h3>
 <h4>Stundenaufwand: 2:00</h4>
@@ -104,68 +104,62 @@ Heute haben wir weiter an einem zum Stil passenden Baum gearbeitet. Die Tanne ha
 Heute haben wir einen ersten Playtest betrieben. Dabei haben wir festgestellt, dass wir weiter an der Kameraführung arbeiten müssen, außerdem haben wir das Terrain weiter bearbeitet um etwas mehr Abwechslung in die Insel zu bekommen, desweiteren haben wir über weitere Details wie Büsche und Steine gesprochen.
 
 <h3 id="nullneunnulleins">09.01.19 - Zuhause</h3>
-<h4>Stundenaufwand: 1:00 + 2:00</h4>
+<h4>Stundenaufwand: 3:00</h4>
 
-EInbau des ersten Baumes, neue texturen für gras und sand
-invisible border gebaut + erstes richtiges Mapdesign
-neue wasser textur rausgesucht und wasser asset damit geupdated
+Am diesem Nachmittag haben wir mithilfe des fertig modellierten Baum einen Wald gestaltet und weiter an der Insel geformt, sodass diese langsam etwas natürlicher wirkt. Zudem haben wir neue Texturen für Gras und Sand rausgesucht und die alten ersetzt. Auch für Wasser haben wir eine neue Textur herausgesucht und das Wasserasset damit geupdatet. Zudem haben wir unsere Map mit einer unsichtbaren Wand begrenzt, sodass man nichtmehr tief in den Ozean laufen kann und irgendwann vom Rand der Welt herunterfällt.
 
 <h3 id="einsviernulleinsz">14.01.19 - Zuhause</h3>
 <h4>Stundenaufwand: 8:00</h4>
-Was haben sie gemacht SIR? Ich habe öööhhhh einen Busch modelliert, liegenden Baumstamm modelliert und Stein Modelliert. Schöfferhofer weizen SPRITZ! Holztreppe modelliert, erste Insel geTERRAformed, nen Strand geformt und ästetisch ansprechend gestalallllaaaaaltet.
-
-Steine für den Weg modelliert.
-
-Wir haben eine rudimentäre Kameraführung implementiert. Zudem haben wir eine Funktion geschrieben, die prüft, ob sich der Charakter auf dem  Boden befindet. 
+Heute haben wir uns weiter um die Gestaltung der Insel gekümmert. Angefangen mit Büschen, über tote und umgefallene Bäume, bis zu Steinen und Felsen. Außerdem haben wir eine Holztreppe damit man vom Strand aus auf den oberen Teil der Insel gelangen kann. Desweiteren haben wir an der Inselform weiter gefeilt und ästetischer gestaltet.
+Parallel haben wir eine rudimentäre Kameraführung implementiert und eine Funktion geschrieben, die prüft, ob sich der Charakter auf dem Boden befindet. 
 
 
 <h3 id="einsfuenfnulleinsz">15.01.19 - Zuhause</h3>
 <h4>Stundenaufwand: 3:00</h4>
 
-Inseloberfläche geformt, modellierte Gegenstände auf der Insel platziert, Steine um Insel, Weg.
+Die am vorherigen Tag modellierten Gegenstände haben wir heute auf der Insel platziert und einen Weg von der Treppe zum geplanten Haus gezogen. Nun sieht die Insel schon deutlich lebhafter aus. Dazu haben wir die gesamte Insel mit Steinen umschlossen um sie realistischer zu gestalten.
 
 
 <h3 id="einsfuenfnulleins">15.01.19 - Unterricht</h3>
 <h4>Stundenaufwand: 01:30</h4>
-Heute haben wir einen weiteren Test von einem Game-Export getätigt:
-
-In diesem Fall haben wir uns weiter mit der Kameraführung beschäftigt. Dabei standen wir vor allem vor dem Problem, dass die Kamera der Bewegung aktuell nur bedingt folgt. Zudem war die Kameraführung mittels der Maus noch sehr schwierig zu bedienen 
+An diesem Tag haben wir einen weiteren Test mit einem neuen Game-Export gemacht. Wir haben festgestellt, dass die Kameraführung weiterhin ein Problem darstellt. Die Kamera folgt zum jetzigen Zeitpunkt nicht der Bewegung und ist schwer mit der Maus zu steuern, da unter anderem die Axenbewegung umgekehrt ist. Daher haben wir an einer Lösung des Kameraproblems gearbeitet.
 
 <h3 id="zweieinsnulleins">21.01.19 - Unterricht</h3>
 <h4>Stundenaufwand: 0:45</h4>
 
-Am Stundenblog gearbeitet und etwas weitergeplant
+In der heutigen Unterrichtstunde haben wir das Stundenprotokoll weiter ausformuliert und unsere weitere Vorgehensweise und vorallem nächste Schritte für unser Projekt geplant.
 
 <h3 id="zweizweinulleins">22.01.19 - Unterricht</h3>
 <h4>Stundenaufwand: 01:30</h4>
 
-An der Dokumentation weitergerarbeitet. Dafür gesorgt dass die Maus verschwindet inGame und da ist, wenn man im Menü ist
+In der Doppelstunde heute haben wir an der Dokumentation weitergearbeitet. Außerdem haben wir ein Script geschrieben damit die Maus im Spiel nicht zu sehen ist, außer wenn das Pausemenü aufgerufen wird. Dies funktioniert aktuell nicht nicht einwandfrei.
 
 
 <h3 id="zweidreinulleins">23.01.19 - Zuhause</h3>
-<h4>Stundenaufwand: 03:30</h4>
+<h4>Stundenaufwand: 05:00 </h4>
 
-Problem mit der Maus beim Pause Menü gefixed, viel an der Dokumenation weitergearbeitetl; Einen Kaktus für die Wüste Modelliert, die start insel weiter designes, eigene Texturen für grashalme und boden sowie sand / gras erstellt. 
+Das Problem, dass die Maus nachdem das Pausemenü aufgerufen wurde nicht mehr verschwindet, haben wir heute lösen können. Desweiteren haben wir der Dokumentation weitergearbeitet. Parallel aben wir einen Kaktus für die zweite Insel modelliert, die erste Insel verschönert und eigene Texturen für Grashalme, Grasboden und Sandboden in Photoshop gezeichnet. 
 
 <h3 id="zweineunnulleins">29.01.19 - Unterricht</h3>
 <h4>Stundenaufwand: 01:30</h4>
 
-Ööööhhmm. Dokumentation, weiter am terrain gemodelllllllllllllltttttteeeetttetetetetet. Das wars
+Im Unterricht heute, haben wir an der Dokumentation geschrieben und das Terrain für die zweite Insel geformt und geplant, was für Gegenstände auf dieser zu finden seien sollen.
 
 <h3 id="nullviernullzwei">04.02.19 - Unterricht</h3>
 <h4>Stundenaufwand: 0:45</h4>
 
-Wir haben unsere Dokumentation fortgesetzt und unser Stundenprotokoll gepflegt. Wie ne alte oma die sich eingeschissen hat
+Heute haben wir die Arbeit an unser Dokumentation fortgesetzt und unser Stundenprotokoll gepflegt.
 
 
 <h3 id="einszweinullzwei">12.02.19 - Unterricht</h3>
 <h4>Stundenaufwand: 01:30</h4>
 
-Wir haben an der Dokumentation gearbietet
+In der heutigen Stunde haben wir an der Dokumentation gearbeitet und alle neuen Arbeitsfortschritte erklärt.
 
 <h3 id="einssechsnullzwei">16.02.19 - Zuhause</h3>
 <h4>Stundenaufwand: 07:00</h4>
-Zwischeninsel, Palme and stuff
+
+Am heutigen Tag haben wir eine kleine Zwischeninsel gestaltet. Die dafür benötigten Palmen haben wir modelliert und jeden einzelnen Arbeitsschritt daran für die Dokumentation gescreenshotet. Außerdem haben wir weitere Gräser be
 
 <h3 id="einsneunnullzwei">19.02.19 - Unterricht</h3>
 <h4>Stundenaufwand: 01:30</h4>
