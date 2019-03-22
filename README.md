@@ -65,7 +65,7 @@ Heute haben wir damit begonnen, ein kleines Terrain in Unity zu modellieren und 
 <h3 id="zweinulleinszwei">20.12.18 - Zuhause</h3>
 <h4>Stundenaufwand: 3:30</h4>
 
-Nach einigen Veränderungen haben wir nun endlich den Charakter fertiggestellt. Als nächsten Schritt haben wir diesen dann in Maximo mit verschiedenen Animationen versehen, eine vorwärts, eine rückwärts und 2 seitwärts-Animationen. Diese lassen sich dort direkt auf den Charakter anwenden und testen. 
+Nach einigen Veränderungen haben wir nun endlich den Charakter fertiggestellt. Als nächsten Schritt haben wir diesen dann in Mixamo mit verschiedenen Animationen versehen, eine vorwärts, eine rückwärts und 2 seitwärts-Animationen. Diese lassen sich dort direkt auf den Charakter anwenden und testen. 
 
 Parallel haben wir in Unity einen PlayerController erstellt. Das ist das C#-Programm, das für die Bewegung des Charakters in alle Richtungen verantwortlich ist. Besonders wichtig war hierbei, dass auch eine Sprint-Funktion eigebaut wird, die allerdings nur mit dem Drücken der Shift-Taste UND der W-Taste aktiviert wird. Die nächsten Minuten vebrachten wir daher damit, Sprinten nur beim Vorwärtslaufen möglich zu machen
 
