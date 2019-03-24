@@ -1,7 +1,7 @@
 # Stundenblog---WHYland --
 <b>Stundenaufwand: ### Stunden</b>
 <h1>Vorwort</h1>
-In diesem Repository haben wir alle Inhalte der Unterrichtsstunden und privaten Treffen im Rahmen unseres ersten Informatikprojekts notiert. Das Produkt des Projekts ist ein Audio Spectrum Analyser, ein Gerät, welches die Präsens und Stärke verschiedener Frequenzen in Musik, beispielsweise vom Handy, darstellt. Mehr Informationen zum Audio Spectrum Analyzer, dessen Aufbau und Funktionsweise, und zum Endprodukt gibt es in unserem Projektseiten-Repository.
+In diesem Repository haben wir alle Inhalte der Unterrichtsstunden und privaten Treffen im Rahmen unseres ersten Informatikprojekts notiert. Das Ergebnis unserer Arbeit ist ein 3D-Game, in welchem das Ziel ist, von einer verlassenen Insel zu entkommen, indem man inGame einige Aufgaben bzw. Quests löst. Im Vergleich zu letztem mal, wollten wir dieses mal vor allem einen gestalterischen Anspruch umsetzten, weshalb wir neben der umfangreichen Programmierung auch viel und gerne Zeit in die grafische Gestaltung unseres Projektes gesteckt haben. Wie wir das ganze umgesetzt haben und wie das angegangen wird, lässt sich außerdem auf einer Projektseite nachlesen: <a href="#">Link</a>
 
 
 <h1>Inhaltsverzeichnis</h1>
