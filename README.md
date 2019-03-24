@@ -248,18 +248,23 @@ Heute haben wir ein Script für eine Lebensleiste geschrieben, damit durch spät
 <h3 id="nullfünfnulldreiz">05.03.19 - Zuhause</h3>
 <h4>Stundenaufwand: 2:00</h4>
 
-Die Zeit heute haben wir genutzt um an der Dokumentation weiterzuarbeiten, sowie Stichpunkte aus dem Stundenprotokoll auszuformulieren.
+Da wir nun das Datum für die Abgabe wissen, haben wir uns daran gemacht, das Stundenprotokoll und die Dokumentation deutlich mehr auszuformulieren, um alles rechtzeitig für die Abgabe zu schaffen. 
+
+Die Zeit heute haben wir daher genutzt um an der Dokumentation weiterzuarbeiten, sowie Stichpunkte aus dem Stundenprotokoll auszuformulieren. Da wir im Stundenprotokoll während unseres Arbeitsprozesses alles in Stichpunkten festgehalten haben, haben wir nun angefangen, alle Stichpunkte in einen Text auszuformulieren.
   
 <h3 id="einsachtnulldrei">18.03.19 - Unterricht</h3>
 <h4>Stundenaufwand: 0:45</h4>
 
-In der Unterrichtstunde heute haben wir an den Formulierungen in unserem Stundenprotokoll gearbeitet.
+Auch heute haben wir die Unterrichtsstunde genutzt, um am Stundenprotokoll zu arbeiten. Wieder haben wir alle vorhandenen Stichpunkte ausformuliert und aktuelle Einträge ergänzt.
 
 <h3 id="zweizweinulldrei">22.03.19 - Zuhause</h3>
 <h4>Stundenaufwand: 1:30</h4>
 
-Heute Nachmittag haben wir am Stundenprotokoll gearbeitet.
+Heute Nachmittag haben wir wieder einmal am Stundenblog gearbeitet und weiter ausformuliert. Zudem haben wir angefangen, sämtliche Texte nun inhaltlich zu prüfen und zu verbessern.
+
+<h3 id="zweiviernulldrei">24.03.19 - Zuhause</h3>
+<h4>Stundenaufwand: 3:30</h4>
+
+Da wir bereits die letzten paar Male am Stundenblog gearbeitet haben, ist unser Stundenprotokoll fast fertig. Daher haben wir heute nocheinmal einiges an Zeit genutzt, um noch einmal alle Einträge zu überarbeiten und noch ein paar kleine Stichpunkte auszuformulieren. Da wir leider noch kaum Rechtschreib- und Formulierungsfehler korrigiert haben, müssen wir auch die nächsten zwei Stunden nutzen, um den Stundenblog weiter zu bearbeiten. 
 
 
-
-------------------------------69,5 Stunden deutlich mehr Aldaaa, habe fehlende Stunden ergänzt....
