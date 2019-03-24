@@ -7,6 +7,8 @@ Im Vergleich zu letztem mal, wollten wir dieses mal vor allem einen gestalterisc
 <br/><br/>
 <img src="https://user-images.githubusercontent.com/42578917/51550957-c19bea00-1e6d-11e9-9baf-56e92610e7fe.png">
 
+Dieses Projekt entspricht für einen Anfänger ungefähr einem Zeitaufwand von ### Stunden
+
 <h1>Inhaltsverzeichnis</h1>
 <ul>
   <li><a href="#einssiebeneinszwei">17.12.18 - Unterricht<a></li>
