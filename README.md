@@ -48,17 +48,19 @@ Dieses Projekt entspricht für einen Anfänger ungefähr einem Zeitaufwand von #
 <h3 id="einssiebeneinszwei">17.12.18 - Unterricht</h3>
 <h4>Stundenaufwand: 0:45</h4>
   
-Heute haben wir uns mit der Ideenfindung beschäftigt. Nachdem wir das letzte Mal ein Hardwarelastiges Projekt gemacht haben, wollten wir diesmal eher ein Projekt mit Fokus auf Software erstellen. Dabei kamen (unseren Programmierkenntnissen entsprechend) nur eine Smartphone App, ein Computerprogramm oder ein Videospiel in Frage.
+Heute haben wir uns mit der Ideenfindung beschäftigt. Nachdem wir das letzte Mal ein Hardwarelastiges Projekt gemacht haben, wollten wir diesmal eher ein Projekt mit Fokus auf Software erstellen. Dabei kamen (unseren Programmierkenntnissen entsprechend) nur eine Smartphone App, ein Computerprogramm oder ein Videospiel in Frage. Daher informierten wir uns zunächst einmal, was es für Möglichkeiten gab, Programme oder Spiele umzusetzten, welche Engines btw. Programme dafür bereitstehen, wie weit wir dabei mit unserem aktuellen Wissen kämen und wie möglicherweise das Ergebnis aussehen könnte. 
 
 <h3 id="einsachteinszwei">18.12.18 - Unterricht</h3>
 <h4>Stundenaufwand: 1:30</h4>  
-  
-Nach einiger Zeit einigten wir uns darauf, keine App, sondern ein Computerprogramm, näher gesagt ein Computerspiel zu programmieren. Dazu entschieden wir uns, da wir auch einen gestalterischen, also einen grafischen, Anspruch hatten. Da wir schon Erfahrung mit der Unity Engine hatten, beschlossen wir, diese für unser Projekt zu nutzen. Zudem ist die deutlich benutzerfreundlicher als z.B. die Unreal Engine und hat ebenfalls eine deutlich größere Community mit einer größeren Anzahl an Lernvideos.
+
+Wo wir bereits letzte Stunde dafür aufgebracht hatten, uns zu informieren, was für Möglichkeiten es gibt, wollten wir dieses Mal bereits eine Idee entwickeln, um im Vergleich zu unserem letzten Informatikprojekt sehr früh viel Fortschritt zu machen.
+
+Nach einiger Zeit einigten wir uns dann darauf, keine App, sondern ein Computerprogramm, genauer gesagt ein Computerspiel zu programmieren. Dazu entschieden wir uns, da wir auch einen gestalterischen, also einen grafischen, Anspruch hatten. Da wir schon Erfahrung mit der Unity Engine hatten, beschlossen wir, diese für unser Projekt zu nutzen. Zudem ist die deutlich benutzerfreundlicher als z.B. die Unreal Engine und hat ebenfalls eine deutlich größere Community mit einer größeren Anzahl an Lernvideos.
   
 <h3 id="einsachteinszweiz">18.12.18 - Zuhause</h3>
 <h4>Stundenaufwand: 2:30</h4>
 
-Nun haben wir begonnen, uns (erneut) in Unity und die neuesten Updates einzulesen und im Zweifel vorhandenes Wissen aufgefrischt. Zudem haben wir mit der Installation der Unity Engine, sowie einigen Assets begonnen und das Programm eingerichtet, in Unity eingelesen, vorhandenes Wissen aufgefrischt und alles installiert.
+Nun haben wir begonnen, uns (erneut) in Unity und die neuesten Updates einzulesen und im Zweifel vorhandenes Wissen aufgefrischt. Zudem haben wir mit der Installation der Unity Engine, sowie einigen Assets begonnen und das Programm eingerichtet. Da die Engine ziemlich groß ist, dauerte es entsprechend eine Weile, bis das ganze installiert war. 
   
 Gleichzeitig haben wir uns darauf geeinigt, wie wir das Projekt umsetzen wollen. Zum einen hatten wir den Anspruch, sämtliche Modelle und Objekte selber zu modellieren, zum anderen einen gewissen Grafischen Standart zu erfüllen. Um das zu erreichen, recherchierten wir nach einen angemessenen Stil für unser Projekt und sind unter anderem auf folgende zwei Beispiele getroffen:
   
@@ -69,30 +71,32 @@ Da uns der Low-Poly-Cartoon-Stil zusagte und unserem Niveau entspricht, wollten 
 <h3 id="einsneuneinszwei">19.12.18 - Zuhause</h3>
 <h4>Stundenaufwand: 2:00</h4>
   
-Heute haben wir damit begonnen, ein kleines Terrain in Unity zu modellieren und überlegt, wie wir einen eigenen Charakter für die Spielwelt umsetzen können. Da wir große Fans der Creative Cloud von Adobe sind, wollten wir das sich noch in der Beta befindene Tool Adobe Fuse verwenden, mit dem man relativ anspruchsvolle Charaktermodelle und dazugehörige Animationen erstellen konnte. Dabei lassen sich sowohl Körperform und Kleidung, als auch detailgetreu der Gesichtsausdruck, sowie Haarfarben, Augenfarbe usw. den persönlichen Wünschen anpassen. Diese weite Reihe an Funktionen nutzten wir, um zunächst einen Testcharakter zu erstellen.
+Heute haben wir damit begonnen, ein kleines Terrain in Unity zu modellieren und überlegt, wie wir einen eigenen Charakter für die Spielwelt umsetzen können. 
+
+Da wir große Fans der Creative Cloud von Adobe und überzeugt von der Qualität und Funktionalität der enthaltenen Programme sind, wollten wir das sich noch in der Beta befindene Tool Adobe Fuse verwenden, mit dem man relativ anspruchsvolle Charaktermodelle und dazugehörige Animationen erstellen konnte. Dabei lassen sich sowohl Körperform und Kleidung, als auch detailgetreu der Gesichtsausdruck, sowie Haarfarben, Augenfarbe usw. den persönlichen Wünschen anpassen. Diese weite Reihe an Funktionen nutzten wir, um zunächst einen Testcharakter zu erstellen. Diesen konnte man dort auch als 3D-Model, also als .fbx datei exportieren, was wir direkt machten und testeten, wie sich das entstandene Model in Unity verhält.
  
 <h3 id="zweinulleinszwei">20.12.18 - Zuhause</h3>
 <h4>Stundenaufwand: 3:30</h4>
 
-Nach einigen Veränderungen haben wir nun endlich den Charakter fertiggestellt. Als nächsten Schritt haben wir diesen dann in Mixamo mit verschiedenen Animationen versehen, eine vorwärts, eine rückwärts und 2 seitwärts-Animationen. Diese lassen sich dort direkt auf den Charakter anwenden und testen. 
+Nach einigen Veränderungen haben wir nun endlich den Charakter fertiggestellt. Als nächsten Schritt haben wir diesen dann in Mixamo mit verschiedenen Animationen versehen, eine vorwärts, eine rückwärts und 2 seitwärts-Animationen. Diese lassen sich dort direkt auf den Charakter anwenden und testen. Dieser Schritt selber bedurfte nicht viel Zeit und so haben wir den Charakter schnell aus Mixamo exportieren und in Unity importieren können.
 
-Parallel haben wir in Unity einen PlayerController erstellt. Das ist das C#-Programm, das für die Bewegung des Charakters in alle Richtungen verantwortlich ist. Besonders wichtig war hierbei, dass auch eine Sprint-Funktion eigebaut wird, die allerdings nur mit dem Drücken der Shift-Taste UND der W-Taste aktiviert wird. Die nächsten Minuten vebrachten wir daher damit, Sprinten nur beim Vorwärtslaufen möglich zu machen
+Parallel dazu haben wir in Unity einen PlayerController erstellt. Das ist das C#-Programm, das für die Bewegung des Charakters in alle Richtungen verantwortlich ist. Besonders wichtig war hierbei, dass auch eine Sprint-Funktion eigebaut wird, die allerdings nur mit dem Drücken der Shift-Taste UND der W-Taste aktiviert wird. Die nächsten Minuten vebrachten wir daher damit, Sprinten nur beim Vorwärtslaufen möglich zu machen. Um den ganzen Controller umzusetzten, mussten wir uns daher nochmal genauer in die Unity-Engine einlesen, und rausfinden, wie dort die "Verschiebung", also Bewegung von Objekten funktioniert.
 
 <h3 id="zweieinseinszwei">21.12.18 - Zuhause</h3>
 <h4>Stundenaufwand: 2:45</h4>
-  
-Charakter mit Animationen ausgestattet, Übergänge zwischen den Animationen, Sprinten-Funktion
 
-Als nächstes haben wir die zuvor in Fuse und Maximo erstellten Animationen und Modelle in Unity importiert. Dann ging es daran, die Animationen an bestimmte Aktionen zu koppeln: Die Lauf-Animation an das Drücken der W-Taste oder die Sprint-Animation an das Drücken der W- und der Shift-Taste. Um das zu bewerkstelligen nutzten wir den Unity Animator, der eine bedingte Animation ermöglicht: Wir haben also ein Script geschrieben, in welchem verschiedene Tastaturaktionen abgefragt werden. An dieses Script lässt sich dann im Unity Animator eine Aktion, in diesem Fall das Abspielen der Vorwärts-Animation koppeln. Nachdem wir dort eine Weile rumprobiert haben, waren wir mit dem Ergebnis zufrieden.
+Heute haben wir uns dann genauer damit beschäftigt, wie wir die zuvor erstellten Animationen auch in Unity anwenden können. Dann ging es daran, die Animationen an bestimmte Aktionen zu koppeln: Die Lauf-Animation an das Drücken der W-Taste oder die Sprint-Animation an das Drücken der W- und der Shift-Taste. 
 
-Einer der Vorteile des Unity-Animator ist der Übergang zwischen den Animationen. Diese erstellt dieser automatisch, was einen weichen Übergang zwischen den einzelnen Animationen ermöglicht. 
+Um das zu bewerkstelligen nutzten wir den Unity Animator, der eine bedingte Animation ermöglicht: Wir haben also ein Script geschrieben, in welchem verschiedene Tastaturaktionen abgefragt werden. An dieses Script lässt sich dann im Unity Animator eine Aktion, in diesem Fall das Abspielen der Vorwärts-Animation koppeln. Nachdem wir dort eine Weile rumprobiert haben, waren wir mit dem Ergebnis zufrieden.
+
+Einer der Vorteile des Unity-Animator ist der Übergang zwischen den Animationen. Diese erstellt er automatisch, was einen weichen Übergang zwischen den einzelnen Animationen ermöglicht. 
   
 <h3 id="zweizweieinszwei">22.12.18 - Zuhause</h3>
 <h4>Stundenaufwand: 1:00</h4>
 
 Da wir den Charakter mit einem Capsule-Collider ausgestattet haben, hatte dieser in einer dreidimensionalen Welt auch die Eigenschaften einer Kapsel: Er rollte also Berge zum Teil einfach rückwärts runter! Um dieses Problem zu lösen, haben wir die Rotation-Funktion des Charakters deaktiviert.
 
-Zudem haben wir damit begonnen, die ersten Schritte unseres Projektes in unsere Projektseite zu übernehmen. Da bedeutet, wir haben ein Github-Repository erstellt und mit einer Readme.txt ausgestattet. Zudem haben wir unser Vorgehen in Adobe Fuse, in Maximo und die ersten Schritte im Unity-Animator mit aufgennommen.
+Zudem haben wir damit begonnen, die ersten Schritte unseres Projektes in unsere Projektseite zu übernehmen. Da bedeutet, wir haben ein Github-Repository erstellt und mit einer Readme.txt ausgestattet. Zudem haben wir unser Vorgehen in Adobe Fuse, in Maximo und die ersten Schritte im Unity-Animator mit aufgennommen. Schon jetzt haben wir gemerkt, dass das Projekt vermutlich ziemlich umfangreich wird und wollten daher bereits jetzt jeden Schritt, den wir in unserem Unity-Projekt machten sofort ausgiebig in der Projektseite dokumentieren.
 
 <h3 id="zweiachteinszwei">28.12.18 - Zuhause</h3>
 <h4>Stundenaufwand: 4:00</h4>
