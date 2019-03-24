@@ -149,62 +149,83 @@ Parallel haben wir eine rudimentäre Kameraführung implementiert und eine Funkt
 <h3 id="einsfuenfnulleinsz">15.01.19 - Zuhause</h3>
 <h4>Stundenaufwand: 3:00</h4>
 
-Die am vorherigen Tag modellierten Gegenstände haben wir heute auf der Insel platziert und einen Weg von der Treppe zum geplanten Haus gezogen. Nun sieht die Insel schon deutlich lebhafter aus. Dazu haben wir die gesamte Insel mit Steinen umschlossen um sie realistischer zu gestalten. Zudem haben wir uns noch einmal an das Script vom Vortag gemacht. Nachdem wir einige Korrekturen vornahmen, war das Ergebnis halbwegs erfolgreich, sodass wir es nutzen konnten. Daher implementierten wir es und nahmen einige Tests vor. Zudem machten wir einen weiteren Export, um in der Schule einen weiteren Spieltest zu machen.
+Die am vorherigen Tag modellierten Gegenstände haben wir heute auf der Insel platziert und einen Weg von der Treppe zum geplanten Haus gezogen. Nun sieht die Insel schon deutlich lebhafter aus. Dazu haben wir die gesamte Insel mit Steinen umschlossen um sie realistischer zu gestalten. 
 
+Zudem haben wir uns noch einmal an das Script vom Vortag gemacht. Nachdem wir einige Korrekturen vornahmen, war das Ergebnis halbwegs erfolgreich, sodass wir es nutzen konnten. Daher implementierten wir es und nahmen einige Tests vor. Zudem machten wir einen weiteren Export, um in der Schule einen weiteren Spieltest zu machen.
 
 <h3 id="einsfuenfnulleins">15.01.19 - Unterricht</h3>
 <h4>Stundenaufwand: 01:30</h4>
-An diesem Tag haben wir einen weiteren Test mit einem neuen Game-Export gemacht. Wir haben festgestellt, dass die Kameraführung weiterhin ein Problem darstellt. Die Kamera folgt zum jetzigen Zeitpunkt nicht der Bewegung und ist schwer mit der Maus zu steuern, da unter anderem die Axenbewegung umgekehrt ist. Daher haben wir an einer Lösung des Kameraproblems gearbeitet.
+
+An diesem Tag haben wir einen weiteren Test mit einem neuen Game-Export gemacht. Wir haben festgestellt, dass die Kameraführung weiterhin ein Problem darstellt. Die Kamera folgt zum jetzigen Zeitpunkt nicht der Bewegung und ist schwer mit der Maus zu steuern, da unter anderem die Axenbewegung umgekehrt ist. Daher haben wir an einer Lösung des Kameraproblems gearbeitet:
+
+Die Kamera stellte im ganzen Projekt eine Herausforderung dar. Denn sie dreht sich nicht einfach mit dem Charakter mit, sondern sie hat eine besondere Bewegung, die man Kamera Orbit nennt. Die Lösung dafür war zumindest auf der X-Y-Achse im Koordinatensystem relativ einfach. Dafür haben wir einfach die Kamera an den Charakter angeheftet, und ein kleines Programm geschrieben, um den Charakter selbst mit der Mausbewegung zu drehen. In der Z-Richtung war das ganze nicht so einfach, weshalb wir dieses Problem erstmal zurückstellten.
 
 <h3 id="zweieinsnulleins">21.01.19 - Unterricht</h3>
 <h4>Stundenaufwand: 0:45</h4>
 
-In der heutigen Unterrichtstunde haben wir das Stundenprotokoll weiter ausformuliert und unsere weitere Vorgehensweise und vorallem nächste Schritte für unser Projekt geplant.
+In der heutigen Unterrichtstunde haben wir das Stundenprotokoll weiter ausformuliert und unsere weitere Vorgehensweise und vorallem nächste Schritte für unser Projekt geplant. Wie bereits erwähnt, braucht das Protokoll und die Dokumentation entsprechend Zeit, weshalb wir die ganze Stunde dafür benötigten. Wir entwickelten eine Stuktur für das Protokoll mit Überschrift, Inhaltsverzeichnisse, Vorwort etc. und strukturierten alles. 
 
 <h3 id="zweizweinulleins">22.01.19 - Unterricht</h3>
 <h4>Stundenaufwand: 01:30</h4>
 
-In der Doppelstunde heute haben wir an der Dokumentation weitergearbeitet. Außerdem haben wir ein Script geschrieben damit die Maus im Spiel nicht zu sehen ist, außer wenn das Pausemenü aufgerufen wird. Dies funktioniert aktuell nicht nicht einwandfrei.
+In der Doppelstunde heute haben wir an der Dokumentation weitergearbeitet. So langsam wurde auch diese sehr umfangreich, weshalb wir auch, wie letzte Stunde das Protokoll, diese einmal strukturierten. Wir haben also eine Aufteilung in das Design, das Gameplay selbst, und die Programmierung vorgenommen, und eine grobe Einleitung mit den Zielen des Projektes verfasst.
 
+Außerdem haben wir ein Script geschrieben damit die Maus im Spiel nicht zu sehen ist, außer wenn das Pausemenü aufgerufen wird. Dies funktionierte aber noch nicht ganz einwandfrei, denn das Pausemenü wollte plötzlich nicht mehr verschwinden. Wir ließen das Problem erstmal so und wandten uns der Erstellung des Menü-Bildschirms zu. Da dies relativ einfach ging, hatten wir gegen Ende der Stunde bereits einen halbwegs funktionstüchtigen Prototypen. 
 
 <h3 id="zweidreinulleins">23.01.19 - Zuhause</h3>
 <h4>Stundenaufwand: 05:00 </h4>
 
-Das Problem, dass die Maus nachdem das Pausemenü aufgerufen wurde nicht mehr verschwindet, haben wir heute lösen können. Desweiteren haben wir der Dokumentation weitergearbeitet. Parallel aben wir einen Kaktus für die zweite Insel modelliert, die erste Insel verschönert und eigene Texturen für Grashalme, Grasboden und Sandboden in Photoshop gezeichnet. 
+Das Problem, dass die Maus nachdem das Pausemenü aufgerufen wurde nicht mehr verschwindet, haben wir heute lösen können. Rückblickend war das Problem eigentlich recht simpel, es fehlte lediglich eine else() in einer if-Schleife.
+
+Desweiteren haben wir der Dokumentation weitergearbeitet. Parallel haben wir einen Kaktus für die zweite Insel modelliert, die erste Insel verschönert und eigene Texturen für Grasboden und Sandboden in Photoshop gezeichnet.
 
 <h3 id="zweineunnulleins">29.01.19 - Unterricht</h3>
 <h4>Stundenaufwand: 01:30</h4>
 
-Im Unterricht heute, haben wir an der Dokumentation geschrieben und das Terrain für die zweite Insel geformt und geplant, was für Gegenstände auf dieser zu finden seien sollen.
+Im Unterricht heute, haben wir an der Dokumentation geschrieben und das Terrain für die zweite Insel geformt und geplant, was für Gegenstände auf dieser zu finden seien sollen. Zum einen wollten wir eine verlassene Hütte mit der Quest, einen Schlüssel aufzusammeln implementieren, zum anderen haben wir uns darauf geeinigt, wie der Spieler eigentlich am Ende von der Insel entkommen könnte.
+
+Da wir in einen zweiten Raum und somit zwei Computer gleichzeitig nutzen konnten, haben wir mehrere Sachen gleichzeitig erledigen können, was uns deutlich produktiver machte. 
 
 <h3 id="nullviernullzwei">04.02.19 - Unterricht</h3>
 <h4>Stundenaufwand: 0:45</h4>
 
-Heute haben wir die Arbeit an unser Dokumentation fortgesetzt und unser Stundenprotokoll gepflegt.
+Heute haben wir die Arbeit an unser Dokumentation fortgesetzt und unser Stundenprotokoll gepflegt. Viel neues haben wir allerdings nicht geschrieben, da wir heute vor allem das bereits geschriebene Korrektur gelesen und gemerkt haben, dass wir ziemlich schlecht in Rechtschreibung sind...
 
 
 <h3 id="einszweinullzwei">12.02.19 - Unterricht</h3>
 <h4>Stundenaufwand: 01:30</h4>
 
-In der heutigen Stunde haben wir an der Dokumentation gearbeitet und alle neuen Arbeitsfortschritte erklärt.
+In der heutigen Stunde haben wir an der Dokumentation gearbeitet. Diesmal haben wir allerdings neue Einträge erstellt. Vor allem zum Pausemenü, wessen Umfang allerdings etwas ausgeufert ist. Zudem fehlte bei dem Eintrag der Kamerasteuerung noch einiges an Code, was wir dann ergänzt haben. 
+
+Parallel haben wir noch einen weiteren Game-Test vorgenommmen um die bisherigen Ergänzungen noch einmal zu testen.
 
 <h3 id="einssechsnullzwei">16.02.19 - Zuhause</h3>
 <h4>Stundenaufwand: 07:00</h4>
 
-Am heutigen Tag haben wir eine kleine Zwischeninsel gestaltet. Die dafür benötigten Palmen haben wir modelliert und jeden einzelnen Arbeitsschritt daran für die Dokumentation gescreenshotet. Außerdem haben wir weitere Gräser bearbeitet, die zur jeweiligen Umgebung besser passen. So konnten wir rote Gräser für die Wüste und lange etwas gelblichere Gräser ins Wasser platzieren.
+Am heutigen Tag haben wir eine kleine Zwischeninsel gestaltet. Die dafür benötigten Palmen haben wir modelliert und jeden einzelnen Arbeitsschritt daran für die Dokumentation gescreenshotet. Außerdem haben wir weitere Gräser bearbeitet, die zur jeweiligen Umgebung besser passen. So konnten wir rote Gräser für die Wüste und lange etwas gelblichere Gräser ins Wasser platzieren. 
+
+Zudem haben wir weitere Am Pausemenü gearbeitet und erste Recherchen zu einem Hauptmenü vorgenommen. Da dies allerdings nciht ganz so einfach ist und aktuell keine Priorität hat, haben wir dies erstmal zurückgestellt.
 
 <h3 id="einsneunnullzwei">19.02.19 - Unterricht</h3>
 <h4>Stundenaufwand: 01:30</h4>
 
-Heute haben wir an der Dokumentation gearbeitet und die Bilder von der Palme eingebunden. Zudem haben wir angefangen ein Script zu schreiben, wodurch der Charakter Gegenstände wie z.B. einen Schlüssel aufheben kann. Ergänzend haben wir ein Problem an unserem Sprungscript gelöst.
+Heute haben wir an der Dokumentation gearbeitet und die Bilder von der Palme eingebunden. Da wir nämlich beispielhaft die Modellierung eines Objektes in Blender darstellen wollten, haben wir viele Screenshots gemacht, die nun zurechtgeschnitten, bearbeitet und in die Projektseite eingepflegt werden mussten.
+
+Zudem haben wir angefangen ein Script zu schreiben, wodurch der Charakter Gegenstände wie z.B. einen Schlüssel aufheben kann, um endlich einmal ein wenig GamePlay in das Spiel zu implementieren und so ein bisschen Leben in das Spiel zu bringen. 
+
+Ergänzend haben wir ein Problem an unserem Sprungscript gelöst, da dies noch nicht ganz perfekt war. Was genau das Problem war, ist uns allerdings nicht ganz klar, weil wir bei der Lösung des Problems ausschließlich nochmal das Script neu geschrieben haben und eigentlich jetzt nur eine frühere Version eingesetzt haben.
 
 <h3 id="zweizweinullzwei">22.02.19 - Zuhause</h3>
 <h4>Stundenaufwand: 2:30</h4>
 
-Heute haben wir Zuhause einen Schlüssel implementiert um zu Testen um das neu angefangene Script funktioniert. Diesen Schlüssel haben wir am selbigen Tag auch modelliert. Außerdem haben wir sowohl am Stundenprotokoll als auch an der Dokumentation weiter geschrieben.
+Heute haben wir Zuhause einen Schlüssel implementiert um zu Testen um das neu angefangene Script funktioniert. Diesen Schlüssel haben wir am selbigen Tag auch modelliert. Das ganze war erstaunlich einfach, weshalb wir es relativ schnell geschafft haben, das ganze mitsamt Texteinblendung und verschwinden des Schlüssels nach dem Aufsammeln zu verwirklichen.
+
+Außerdem haben wir sowohl am Stundenprotokoll als auch an der Dokumentation weiter geschrieben und vor allem die am selben Tag gemachten Fortschritte, also das Aufsammeln des Schlüssels, mit Text und Bildern hineingeschrieben.
 
 <h3 id="nulleinsnulldrei">01.03.19 - Zuhause</h3>
 <h4>Stundenaufwand: 4:00</h4>
+
+--------------------bis hier hin ist bereits ausformuliert -----------------------
 
 Heute haben wir eine kaputte Brücke und ein Jump n Run von der ersten Insel zur Zwischeninsel gebaut. Außerdem haben wir versucht Ideen für die dritte Insel umzusetzten bzw. dessen Terrain zu formen. 
 
