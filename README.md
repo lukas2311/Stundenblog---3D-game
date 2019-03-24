@@ -1,4 +1,4 @@
-# Stundenblog---WHYland --
+# Stundenblog - WHYlands - Torben Starken, Lukas Mackel
 <b>Stundenaufwand: ### Stunden</b>
 <h1>Vorwort</h1>
 In diesem Repository haben wir alle Inhalte der Unterrichtsstunden und privaten Treffen im Rahmen unseres ersten Informatikprojekts notiert. Das Ergebnis unserer Arbeit ist ein 3D-Game, in welchem das Ziel ist, von einer verlassenen Insel zu entkommen, indem man inGame einige Aufgaben bzw. Quests löst.
@@ -125,7 +125,11 @@ Heute haben wir einen ersten Spieltest betrieben. Dabei haben wir festgestellt, 
 <h3 id="nullneunnulleins">09.01.19 - Zuhause</h3>
 <h4>Stundenaufwand: 3:00</h4>
 
-Am diesem Nachmittag haben wir mithilfe des fertig modellierten Baum einen Wald gestaltet und weiter an der Insel geformt, sodass diese langsam etwas natürlicher wirkt. Zudem haben wir neue Texturen für Gras und Sand rausgesucht und die alten ersetzt. Auch für Wasser haben wir eine neue Textur herausgesucht und das Wasserasset damit geupdatet. Zudem haben wir unsere Map mit einer unsichtbaren Wand begrenzt, sodass man nichtmehr tief in den Ozean laufen kann und irgendwann vom Rand der Welt herunterfällt.
+An diesem Nachmittag haben wir mithilfe des fertig modellierten Baum einen Wald gestaltet und weiter an der Insel geformt, sodass diese langsam etwas natürlicher wirkt. Dabei merkten wir erst, wie schwierig es ist, eine halbwegs realistische Umgebung zu modellieren, ohne dafür dutzende Baummodelle erstellen zu müssen. Daher hat bereits dies heute einige Zeit benötigt.
+
+Zudem haben wir neue Texturen für Gras und Sand rausgesucht und die alten ersetzt. Der Trick dabei war, ein Gras-Modell in Blender zu erstellen, dieses zweidimensional abzufotografieren, es als PNG zu exportieren, in Photoshop die Konturen auszuschneiden und dann in Unity zu importieren. Um hier ein wenig Arbeitsspeicher zu sparen, haben wir da Gras nämlich nicht einfach als Modell auf der Insel platziert, da dies ewig dauern würde und zudem beim Spieler enorm viel Rechenleistung benötigen würde, sondern haben auf eine Funktion der Unity-Terrain-Gestaltung zurückgegriffen, in der man ein PNG importiert, welches dann quasi als bewegliches Bild in der Welt eingebunden werden kann. 
+
+Auch für Wasser haben wir eine neue Textur herausgesucht und das Wasserasset damit geupdatet. Zudem haben wir unsere Map mit einer unsichtbaren Wand begrenzt, sodass man nichtmehr tief in den Ozean laufen kann und irgendwann vom Rand der Welt herunterfällt. Dabei musste die Wand zwar unsichtbar sein, aber eben noch in Hindernis für den Spieler darstellen. 
 
 <h3 id="einsviernulleinsz">14.01.19 - Zuhause</h3>
 <h4>Stundenaufwand: 8:00</h4>
