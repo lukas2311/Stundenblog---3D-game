@@ -101,20 +101,26 @@ Zudem haben wir damit begonnen, die ersten Schritte unseres Projektes in unsere 
 <h3 id="zweiachteinszwei">28.12.18 - Zuhause</h3>
 <h4>Stundenaufwand: 4:00</h4>
 
-Heute haben wir mit der näheren Ausführung unseres Designentwurfes beschäftigt. Dafür haben wir das 3D-Modellierungs-Tool Blender genutzt und zunächst darin einige Versuche getätigt, um uns mit dessen Funktionsweise zu beschäftigen. Zudem haben wir mit einzelnen Objekten, wie einem Stein, erste Modellierugnsversuche für unser Projekt erstellt.
+Heute haben wir mit der näheren Ausführung unseres Designentwurfes beschäftigt. Dafür haben wir das 3D-Modellierungs-Tool Blender genutzt und zunächst darin einige Versuche getätigt, um uns mit dessen Funktionsweise zu beschäftigen. Zudem haben wir mit einzelnen Objekten, wie einem Stein, erste Modellierugnsversuche für unser Projekt erstellt. 
+
+Schwierig war hierbei, dass Blender sehr stark von der Nutzung von Shortcuts abhängt. Als Anfänger ist es daher schwierig, sich mit Online-Tutorials zu behelfen, da viele der Ersteller davon nahezu ausnahmslos auf Shortcuts zurückgreifen. Daher ist es sehr schwierig diesen als Anfänger zu folgen. Für den Anfang war daher unumgänglich, sich eine Liste mit allen verfügbaren Shortcuts anzulegen und diese zu lernen.
 
 <h3 id="nullsiebennulleins">07.01.19 - Zuhause</h3>
 <h4>Stundenaufwand: 2:00</h4>
 
-Desweiteren haben wir heute eine Tanne modelliert. Diese sollen später auf dem Terrain in Unity platziert werden und dem grafischen Bild genügen. Schwierig daran war vor allem, die Bäume entsprechend unserer Design-Vorstellung zu modellieren. Dafür müssten sie sowohl einen Comic Stil haben, als auch detailliert genug sein, um noch weiterhin in die Welt zu passen.
+Nachdem wir die Shortcuts nun halbwegs gelernt hatten, begannen wir, richtigen Fortschritt in Blender zu tätigen. Also haben wir die bestehenden Modelle verworfen und damit begonnen einen Stein zu modellieren. 
+
+Desweiteren haben wir heute eine Tanne modelliert. Diese sollen später auf dem Terrain in Unity platziert werden und dem grafischen Bild genügen. Schwierig daran war vor allem, die Bäume entsprechend unserer Design-Vorstellung zu modellieren. Dafür müssten sie sowohl einen Comic Stil haben, als auch detailliert genug sein, um noch weiterhin in die Welt zu passen. Daher benötigte es ein wenig Trial and Error bis wir die Objekte so modelliert hatten, dass sie uns gefielen.
 
 <h3 id="nullachtnulleinsz">08.01.19 - Zuhause</h3>
 <h4>Stundenaufwand: 2:00</h4>
-Heute haben wir weiter an einem zum Stil passenden Baum gearbeitet. Die Tanne hat weder zur Inselart noch zum Stil gepasst weshalb wir diese verworfen haben. Der neue Baum ist detailreicher und passt farblich besser zur Insel. Diesen haben wir erstmals in Unity eingefügt.
+
+Heute haben wir weiter an einem zum Stil passenden Baum gearbeitet. Die Tanne hat weder zur Inselart noch zum Stil gepasst weshalb wir diese verworfen haben. Denn zeitgleich beschlossen wir, wie unsere Welt grob aussehen sollte. Dafür benötigten wir dann aber eher normale Bäume statt Tannen, weshalb wir zunächst einen Prototypen wir einen passenden Baum entwarfen. Der neue Baum ist detailreicher und passt farblich besser zur Insel. Diesen haben wir erstmals in Unity eingefügt. Mit ein bisschen Drehen und Wenden sowie Größenanpassungen gefiehl uns das schon ganz gut, und wir beließen es dabei.
 
 <h3 id="nullachtnulleins">08.01.19 - Unterricht</h3>
 <h4>Stundenaufwand: 1:30</h4>
-Heute haben wir einen ersten Playtest betrieben. Dabei haben wir festgestellt, dass wir weiter an der Kameraführung arbeiten müssen, außerdem haben wir das Terrain weiter bearbeitet um etwas mehr Abwechslung in die Insel zu bekommen, desweiteren haben wir über weitere Details wie Büsche und Steine gesprochen.
+
+Heute haben wir einen ersten Spieltest betrieben. Dabei haben wir festgestellt, dass wir weiter an der Kameraführung arbeiten müssen, da es noch recht dürftig wirkte und sehr komisch war, damit im Spiel umzugehen. Außerdem haben wir das Terrain weiter bearbeitet um etwas mehr Abwechslung in die Insel zu bekommen. Die Terrain-Bearbeitungs-Funktion in Unity war dabei sehr hilfreich, da es damit sehr einfach ist, Farbe und Kontur in das Terrain zu bekommen. Desweiteren haben wir über weitere Details wie Büsche und Steine gesprochen, mit welcher wir die Umgebung ausstatten wollten und erste grobe Schnittzeichnungen gemacht.
 
 <h3 id="nullneunnulleins">09.01.19 - Zuhause</h3>
 <h4>Stundenaufwand: 3:00</h4>
