@@ -7,7 +7,13 @@ Im Vergleich zu letztem mal, wollten wir dieses mal vor allem einen gestalterisc
 <br/><br/>
 <img src="https://user-images.githubusercontent.com/42578917/51550957-c19bea00-1e6d-11e9-9baf-56e92610e7fe.png">
 
-Dieses Projekt entspricht für einen Anfänger ungefähr einem Zeitaufwand von ### Stunden
+<h1>Hinweise</h1>
+
+Dieses Projekt entspricht für einen Anfänger ungefähr einem Zeitaufwand von ### Stunden. Je nach Anspruch an Komplexität und Funktionalität weicht dies natürlich stark oder weniger stark ab.
+
+Als Anfänger ist es oftmals nötig, sich, bevor man mit irgendwas startet, mit der Funktionsweise der genutzten Funktionen auseinandersetzt, um bei Fehlern im Code oder bei Bugs auch erkennen zu können, wo der Fehler liegt, und was zu verbessern ist. Letztlich spart dies einiges an Zeit bei der Entwicklung.
+
+Während des Entwicklungsprozesses ist es zudem sinnvoll, immer wieder das Spiel zu exportieren und einen In-Action-Test zu machen. Wir haben dies währenddessen immer wieder gemacht, da man hier im Vergleich zu Tests, die man innerhalb der Engine macht, weitere Glitches und Bugs erkennen kann. Dabei sollte darauf geachtet werden, dass man mit dem Charakter einmal sämtliche Stellen der Map abläuft und quasi versucht einen Bug/Glitch zu erzeugen, indem man zum Beispiel an Stellen spring oder sprintet, an denen man dies normalerweise nicht tut. Nur solche Stress-Tests zeigen, wo Fehler im Spiel liegen und wo man noch nachzubessern hat. 
 
 <h1>Inhaltsverzeichnis</h1>
 <ul>
@@ -133,14 +139,17 @@ Auch für Wasser haben wir eine neue Textur herausgesucht und das Wasserasset da
 
 <h3 id="einsviernulleinsz">14.01.19 - Zuhause</h3>
 <h4>Stundenaufwand: 8:00</h4>
-Heute haben wir uns weiter um die Gestaltung der Insel gekümmert. Angefangen mit Büschen, über tote und umgefallene Bäume, bis zu Steinen und Felsen. Außerdem haben wir eine Holztreppe damit man vom Strand aus auf den oberen Teil der Insel gelangen kann. Desweiteren haben wir an der Inselform weiter gefeilt und ästetischer gestaltet.
-Parallel haben wir eine rudimentäre Kameraführung implementiert und eine Funktion geschrieben, die prüft, ob sich der Charakter auf dem Boden befindet. 
+Heute haben wir uns weiter um die Gestaltung der Insel gekümmert. Angefangen mit Büschen, über tote und umgefallene Bäume, bis zu Steinen und Felsen. Sie sollte aussehen, wie eine verlassene und naturbelassene Insel.
+
+Außerdem haben wir eine Holztreppe modelliert, damit man vom Strand aus auf den oberen Teil der Insel gelangen kann. Desweiteren haben wir an der Inselform weiter gefeilt und ästetischer gestaltet.
+
+Parallel haben wir eine rudimentäre Kameraführung implementiert und eine Funktion geschrieben, die prüft, ob sich der Charakter auf dem Boden befindet. Dies war allerdings nicht ganz so einfach wie gedacht. Denn durch die unterschiedliche Höhe des Bodens, hat das Script nicht sonderlich gut funktioniert, denn obwohl man sich als Spieler nicht mehr auf dem Boden befand, wurde dennoch angezeigt, dass man sich auf dem Boden befindet. Dies stellte ein Problem dar, weswegen wir noch einmal am Script feilten und eine andere Herangehensweise nutzen, in der wir eine Collision mit dem Boden prüfte, und anhand dessen ausgaben, ob der Spieler sich auf dem Boden befand. Da allerdings nicht nur das Terrain, sondern auch alle Steine, Bäume, Brücken und Pflanzen zum Boden gehörten, war auch dies nicht sonderlich erfolgreich, weshalb wir zurück zum ersten Entwurf sind.
 
 
 <h3 id="einsfuenfnulleinsz">15.01.19 - Zuhause</h3>
 <h4>Stundenaufwand: 3:00</h4>
 
-Die am vorherigen Tag modellierten Gegenstände haben wir heute auf der Insel platziert und einen Weg von der Treppe zum geplanten Haus gezogen. Nun sieht die Insel schon deutlich lebhafter aus. Dazu haben wir die gesamte Insel mit Steinen umschlossen um sie realistischer zu gestalten.
+Die am vorherigen Tag modellierten Gegenstände haben wir heute auf der Insel platziert und einen Weg von der Treppe zum geplanten Haus gezogen. Nun sieht die Insel schon deutlich lebhafter aus. Dazu haben wir die gesamte Insel mit Steinen umschlossen um sie realistischer zu gestalten. Zudem haben wir uns noch einmal an das Script vom Vortag gemacht. Nachdem wir einige Korrekturen vornahmen, war das Ergebnis halbwegs erfolgreich, sodass wir es nutzen konnten. Daher implementierten wir es und nahmen einige Tests vor. Zudem machten wir einen weiteren Export, um in der Schule einen weiteren Spieltest zu machen.
 
 
 <h3 id="einsfuenfnulleins">15.01.19 - Unterricht</h3>
