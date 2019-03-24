@@ -225,8 +225,6 @@ Außerdem haben wir sowohl am Stundenprotokoll als auch an der Dokumentation wei
 <h3 id="nulleinsnulldrei">01.03.19 - Zuhause</h3>
 <h4>Stundenaufwand: 4:00</h4>
 
---------------------bis hier hin ist bereits ausformuliert -----------------------
-
 Heute haben wir eine kaputte Brücke und ein Jump n Run von der ersten Insel zur Zwischeninsel gebaut. Außerdem haben wir versucht Ideen für die dritte Insel umzusetzten bzw. dessen Terrain zu formen. 
 
 <h3 id="nullviernulldrei">04.03.19 - Unterricht</h3>
