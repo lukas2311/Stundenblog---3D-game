@@ -232,7 +232,7 @@ Heute haben wir eine kaputte Brücke und ein Jump n Run von der ersten Insel zur
 <h3 id="nullviernulldrei">04.03.19 - Unterricht</h3>
 <h4>Stundenaufwand: 0:45</h4>
 
-Heute haben wir erneut an der Dokumentation gearbeitet. Dabei haben wir vor allem Bilder eingepflegt in die Projektseite.
+Heute haben wir erneut an der Dokumentation gearbeitet. Da wir mit den Bildern der Palme, die wir beispielhaft einbinden wollten noch nicht ganz fertig geworden sind, haben wir vor allem das Fortgesetzt. Als wir damit fertig waren, haben wir den Eintrag noch einmal Korrektur gelesen.
 
 <h3 id="nullviernulldreiz">04.03.19 - Zuhause</h3>
 <h4>Stundenaufwand: 8:00</h4>
