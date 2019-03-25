@@ -1,5 +1,5 @@
 # Stundenblog - WHYlands - Torben Starken, Lukas Mackel
-<b>Stundenaufwand: ### Stunden</b>
+<b>Stundenaufwand: 87:45 Stunden</b>
 <h1>Vorwort</h1>
 In diesem Repository haben wir alle Inhalte der Unterrichtsstunden und privaten Treffen im Rahmen unseres ersten Informatikprojekts notiert. Das Ergebnis unserer Arbeit ist ein 3D-Game, in welchem das Ziel ist, von einer verlassenen Insel zu entkommen, indem man inGame einige Aufgaben bzw. Quests löst.
 <br/><br/>
@@ -9,7 +9,7 @@ Im Vergleich zu letztem mal, wollten wir dieses mal vor allem einen gestalterisc
 
 <h1>Hinweise</h1>
 
-1. Dieses Projekt entspricht für einen Anfänger ungefähr einem Zeitaufwand von ### Stunden. Je nach Anspruch an Komplexität und Funktionalität weicht dies natürlich stark oder weniger stark ab.
+1. Dieses Projekt entspricht für einen Anfänger ungefähr einem Zeitaufwand von 87:45 Stunden. Je nach Anspruch an Komplexität und Funktionalität weicht dies natürlich stark oder weniger stark ab.
 
 2. Als Anfänger ist es oftmals nötig, sich, bevor man mit irgendwas startet, mit der Funktionsweise der genutzten Funktionen auseinandersetzt, um bei Fehlern im Code oder bei Bugs auch erkennen zu können, wo der Fehler liegt, und was zu verbessern ist. Letztlich spart dies einiges an Zeit bei der Entwicklung.
 
@@ -189,7 +189,7 @@ Da wir in einen zweiten Raum und somit zwei Computer gleichzeitig nutzen konnten
 <h3 id="nullviernullzwei">04.02.19 - Unterricht</h3>
 <h4>Stundenaufwand: 0:45</h4>
 
-Heute haben wir die Arbeit an unser Dokumentation fortgesetzt und unser Stundenprotokoll gepflegt. Viel neues haben wir allerdings nicht geschrieben, da wir heute vor allem das bereits geschriebene Korrektur gelesen und gemerkt haben, dass wir ziemlich schlecht in Rechtschreibung sind...
+Heute haben wir die Arbeit an unser Dokumentation fortgesetzt und unser Stundenprotokoll gepflegt. Viel neues haben wir allerdings nicht geschrieben, da wir heute vor allem das bereits geschriebene Korrektur gelesen.
 
 
 <h3 id="einszweinullzwei">12.02.19 - Unterricht</h3>
@@ -277,4 +277,7 @@ Heute haben wir erneut am Stundenblog gearbeitet. Dabei haben wir aufgeteilt, wa
 
 Heute war dann endlich der Tag, an dem wir unseren Stundenblog beendet haben. Schreiben, Strukturieren, Korrekturlesen, Verbessern usw. sind damit abgeschlossen und wir haben dann einen Link zu unserem Blog an Herrn Buhl geschickt.
 
+<h1>Nachwort</h1>
+
+Abschließend lässt sich sagen, dass auch bei diesem Projekt einige 
 
