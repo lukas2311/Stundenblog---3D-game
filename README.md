@@ -1,5 +1,5 @@
-# Stundenprotokoll - Informatik Projekt 2. Halbjahr - 3DGame: WHYlands
-## Torben Starken, Lukas Mackel - Klasse 12e
+# Stundenprotokoll - Informatik Projekt 2. Halbjahr
+<b>Torben Starken, Lukas Mackel - Klasse 12e</b>
 
 <b>Stundenaufwand: 87:45 Stunden</b>
 <h1>Vorwort</h1>
