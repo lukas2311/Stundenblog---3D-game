@@ -21,7 +21,7 @@ Im Vergleich zu letztem Halbjahr wollten wir dieses Mal, anstatt des Physical Co
   <li><a href="#vorwort">Vorwort</a></li>
   <li><a href="#hinweise">Hinweise</a></li>
   <details>
-    <summary>Arbeitstage</summary>
+  <summary>Arbeitstage</summary>
     <li><a href="#einssiebeneinszwei">17.12.18 - Unterricht<a></li>
     <li><a href="#einsachteinszwei">18.12.18 - Unterricht<a></li>
     <li><a href="#einsachteinszweiz">18.12.18 - Zuhause<a></li>
