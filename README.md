@@ -1,14 +1,14 @@
 # Stundenprotokoll - Informatik Projekt 2. Halbjahr
 <b>Torben Starken, Lukas Mackel - Klasse 12e</b>
 
-<h1>Vorwort</h1>
+<h1 id="vorwort">Vorwort</h1>
 In diesem Repository haben wir alle Inhalte der Unterrichtsstunden und privaten Treffen im Rahmen unseres zweiten Informatikprojekts notiert. Das Ergebnis unserer Arbeit ist ein 3D-Game, in welchem das Ziel ist, von einer verlassenen Insel zu entkommen, indem man inGame einige Aufgaben bzw. Quests löst.
 <br/><br/>
 Im Vergleich zu letztem Halbjahr wollten wir dieses Mal, anstatt des Physical Computing, vor allem einen gestalterischen Anspruch umsetzten, weshalb wir neben der umfangreichen Programmierung auch viel und gerne Zeit in die grafische Gestaltung unseres Projektes gesteckt haben. Wie wir das ganze umgesetzt haben und wie das angegangen wird, lässt sich außerdem auf einer Projektseite nachlesen: <a href="https://github.com/lukas2311/3D-Game-Docu/blob/master/README.md">Link</a>
 <br/><br/>
 <img src="https://user-images.githubusercontent.com/42578917/51550957-c19bea00-1e6d-11e9-9baf-56e92610e7fe.png">
 
-<h1>Hinweise</h1>
+<h1 id="hinweise">Hinweise</h1>
 
 1. Dieses Projekt entspricht für einen Anfänger ungefähr einem Zeitaufwand von 87:45 Stunden. Je nach Anspruch an Komplexität und Funktionalität weicht dies natürlich stark oder weniger stark ab.
 
@@ -18,6 +18,8 @@ Im Vergleich zu letztem Halbjahr wollten wir dieses Mal, anstatt des Physical Co
 
 <h1>Inhaltsverzeichnis</h1>
 <ul>
+  <li><a href="#vorwort">Vorwort</a></li>
+  <li><a href="#hinweise">Hinweise</a></li>
   <li><a href="#einssiebeneinszwei">17.12.18 - Unterricht<a></li>
   <li><a href="#einsachteinszwei">18.12.18 - Unterricht<a></li>
   <li><a href="#einsachteinszweiz">18.12.18 - Zuhause<a></li>
