@@ -64,7 +64,7 @@ Im Vergleich zu letztem Halbjahr wollten wir dieses Mal, anstatt des Physical Co
 <h3 id="einssiebeneinszwei">17.12.18 - Unterricht</h3>
 <h4>Stundenaufwand: 0:45</h4>
   
-Heute haben wir uns mit der Ideenfindung beschäftigt. Nachdem wir das letzte Mal ein Hardwarelastiges Projekt gemacht haben, wollten wir diesmal eher ein Projekt mit Fokus auf Software erstellen. Dabei kamen (unseren Programmierkenntnissen entsprechend) nur eine Smartphone App, ein Computerprogramm oder ein Videospiel in Frage. Daher informierten wir uns zunächst einmal, was es für Möglichkeiten gab, Programme oder Spiele umzusetzten, welche Engines btw. Programme dafür bereitstehen, wie weit wir dabei mit unserem aktuellen Wissen kämen und wie möglicherweise das Ergebnis aussehen könnte. 
+Heute haben wir uns mit der Ideenfindung beschäftigt. Nachdem wir das letzte Mal ein hardwarelastiges Projekt gemacht haben, wollten wir diesmal eher ein Projekt mit Fokus auf Software erstellen. Dabei kamen (unseren Programmierkenntnissen entsprechend) nur eine Smartphone App, ein Computerprogramm oder ein Videospiel in Frage. Daher informierten wir uns zunächst einmal, was es für Möglichkeiten gab, Programme oder Spiele umzusetzten, welche Engines btw. Programme dafür bereitstehen, wie weit wir dabei mit unserem aktuellen Wissen kämen und wie möglicherweise das Ergebnis aussehen könnte. 
 
 <h3 id="einsachteinszwei">18.12.18 - Unterricht</h3>
 <h4>Stundenaufwand: 1:30</h4>  
