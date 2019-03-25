@@ -20,40 +20,43 @@ Im Vergleich zu letztem Halbjahr wollten wir dieses Mal, anstatt des Physical Co
 <ul>
   <li><a href="#vorwort">Vorwort</a></li>
   <li><a href="#hinweise">Hinweise</a></li>
-  <li><a href="#einssiebeneinszwei">17.12.18 - Unterricht<a></li>
-  <li><a href="#einsachteinszwei">18.12.18 - Unterricht<a></li>
-  <li><a href="#einsachteinszweiz">18.12.18 - Zuhause<a></li>
-  <li><a href="#einsneuneinszwei">19.12.18 - Zuhause<a></li>
-  <li><a href="#zweinulleinszwei">20.12.18 - Zuhause<a></li>
-  <li><a href="#zweieinseinszwei">21.12.18 - Zuhause<a></li>
-  <li><a href="#zweizweieinszwei">22.12.18 - Zuhause<a></li>
-  <li><a href="#zweiachteinszwei">28.12.18 - Zuhause<a></li>
-  <li><a href="#nullsiebennulleins">07.01.19 - Zuhause<a></li>
-  <li><a href="#nullachtnulleinsz">08.01.19 - Zuhause<a></li>
-  <li><a href="#nullachtnulleins">08.01.19 - Unterricht<a></li>
-  <li><a href="#nullneunnulleins">09.01.19 - Zuhause<a></li>
-  <li><a href="#einsviernulleinsz">14.01.19 - Zuhause<a></li>
-  <li><a href="#einsfuenfnulleinsz">15.01.19 - Zuhause<a></li>
-  <li><a href="#einsfuenfnulleins">15.01.19 - Unterricht<a></li>
-  <li><a href="#zweieinsnulleins">21.01.19 - Unterricht<a></li>
-  <li><a href="#zweizweinulleins">22.01.19 - Unterricht<a></li>
-  <li><a href="#zweidreinulleins">23.01.19 - Zuhause<a></li>
-  <li><a href="#zweineunnulleins">29.01.19 - Unterricht<a></li>
-  <li><a href="#nullviernullzwei">04.02.19 - Unterricht<a></li>
-  <li><a href="#einszweinullzwei">12.02.19 - Unterricht</a></li>
-  <li><a href="#einssechsnullzwei">16.02.19 - Zuhause</a></li>
-  <li><a href="#einsneunnullzwei">19.02.19 - Unterricht</a></li>
-  <li><a href="#zweizweinullzwei">22.02.19 - Zuhause</a></li>
-  <li><a href="#nulleinsnulldrei">01.03.19 - Zuhause</a></li>
-  <li><a href="#nullviernulldrei">04.03.19 - Unterricht</a></li>
-  <li><a href="#nullviernulldreiz">04.03.19 - Zuhause</a></li>
-  <li><a href="#nullfünfnulldrei">05.03.19 - Unterricht</a></li>
-  <li><a href="#nullfünfnulldreiz">05.03.19 - Zuhause</a></li>
-  <li><a href="#einsachtnulldrei">18.03.19 - Unterricht</a></li> 
-  <li><a href="#zweizweinulldrei">22.03.19 - Zuhause</a></li> 
-  <li><a href="#zweiviernulldrei">24.03.19 - Zuhause</a></li>
-  <li><a href="#zweifünfnulldrei">25.03.19 - Unterricht</a></li>
-  <li><a href="#zweisechsnulldrei">26.03.19 - Unterricht</a></li>
+  <details>
+    <summary>Arbeitstage</summary>
+    <li><a href="#einssiebeneinszwei">17.12.18 - Unterricht<a></li>
+    <li><a href="#einsachteinszwei">18.12.18 - Unterricht<a></li>
+    <li><a href="#einsachteinszweiz">18.12.18 - Zuhause<a></li>
+    <li><a href="#einsneuneinszwei">19.12.18 - Zuhause<a></li>
+    <li><a href="#zweinulleinszwei">20.12.18 - Zuhause<a></li>
+    <li><a href="#zweieinseinszwei">21.12.18 - Zuhause<a></li>
+    <li><a href="#zweizweieinszwei">22.12.18 - Zuhause<a></li>
+    <li><a href="#zweiachteinszwei">28.12.18 - Zuhause<a></li>
+    <li><a href="#nullsiebennulleins">07.01.19 - Zuhause<a></li>
+    <li><a href="#nullachtnulleinsz">08.01.19 - Zuhause<a></li>
+    <li><a href="#nullachtnulleins">08.01.19 - Unterricht<a></li>
+    <li><a href="#nullneunnulleins">09.01.19 - Zuhause<a></li>
+    <li><a href="#einsviernulleinsz">14.01.19 - Zuhause<a></li>
+    <li><a href="#einsfuenfnulleinsz">15.01.19 - Zuhause<a></li>
+    <li><a href="#einsfuenfnulleins">15.01.19 - Unterricht<a></li>
+    <li><a href="#zweieinsnulleins">21.01.19 - Unterricht<a></li>
+    <li><a href="#zweizweinulleins">22.01.19 - Unterricht<a></li>
+    <li><a href="#zweidreinulleins">23.01.19 - Zuhause<a></li>
+    <li><a href="#zweineunnulleins">29.01.19 - Unterricht<a></li>
+    <li><a href="#nullviernullzwei">04.02.19 - Unterricht<a></li>
+    <li><a href="#einszweinullzwei">12.02.19 - Unterricht</a></li>
+    <li><a href="#einssechsnullzwei">16.02.19 - Zuhause</a></li>
+    <li><a href="#einsneunnullzwei">19.02.19 - Unterricht</a></li>
+    <li><a href="#zweizweinullzwei">22.02.19 - Zuhause</a></li>
+    <li><a href="#nulleinsnulldrei">01.03.19 - Zuhause</a></li>
+    <li><a href="#nullviernulldrei">04.03.19 - Unterricht</a></li>
+    <li><a href="#nullviernulldreiz">04.03.19 - Zuhause</a></li>
+    <li><a href="#nullfünfnulldrei">05.03.19 - Unterricht</a></li>
+    <li><a href="#nullfünfnulldreiz">05.03.19 - Zuhause</a></li>
+    <li><a href="#einsachtnulldrei">18.03.19 - Unterricht</a></li> 
+    <li><a href="#zweizweinulldrei">22.03.19 - Zuhause</a></li> 
+    <li><a href="#zweiviernulldrei">24.03.19 - Zuhause</a></li>
+    <li><a href="#zweifünfnulldrei">25.03.19 - Unterricht</a></li>
+    <li><a href="#zweisechsnulldrei">26.03.19 - Unterricht</a></li>
+  </details>
 </ul>
 
 
