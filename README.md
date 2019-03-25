@@ -1,4 +1,5 @@
-# Stundenblog - WHYlands - Torben Starken, Lukas Mackel
+# Stundenprotokoll - Informatik Projekt 2. Halbjahr - 3DGame: WHYlands - Torben Starken, Lukas Mackel - Klasse 12e
+Hier könnte ihre Werbung stehen!
 <b>Stundenaufwand: 87:45 Stunden</b>
 <h1>Vorwort</h1>
 In diesem Repository haben wir alle Inhalte der Unterrichtsstunden und privaten Treffen im Rahmen unseres ersten Informatikprojekts notiert. Das Ergebnis unserer Arbeit ist ein 3D-Game, in welchem das Ziel ist, von einer verlassenen Insel zu entkommen, indem man inGame einige Aufgaben bzw. Quests löst.
