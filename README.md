@@ -224,39 +224,38 @@ Zudem haben wir weiter am Pausemenü gearbeitet und erste Recherchen zu einem Ha
 
 Heute haben wir an der Dokumentation gearbeitet und die Bilder von der Palme eingebunden. Da wir nämlich beispielhaft die Modellierung eines Objektes in Blender darstellen wollten, haben wir viele Screenshots gemacht, die nun zurechtgeschnitten, bearbeitet und in die Projektseite eingepflegt werden mussten.
 
-Zudem haben wir angefangen ein Script zu schreiben, wodurch der Charakter Gegenstände wie z.B. einen Schlüssel aufheben kann, um endlich einmal ein wenig GamePlay in das Spiel zu implementieren und so ein bisschen Leben in das Spiel zu bringen. 
+Zudem haben wir angefangen ein Script zu schreiben, wodurch der Charakter Gegenstände wie z.B. einen Schlüssel aufheben kann, um endlich einmal ein wenig GamePlay in das Spiel zu implementieren und so ein bisschen Leben in das Spiel zu bringen. Obwohl wir dachten, das ganze sei relativ schwierig zu lösen, haben wir einen relativ simplen Lösungsansatz entwickelt und ausprobiert. Zunächst war unser Ziel, ein Objekt zu zerstören, wenn man in der näheren Umgebung E drückt.
 
-Ergänzend haben wir ein Problem an unserem Sprungscript gelöst, da dies noch nicht ganz perfekt war. Was genau das Problem war, ist uns allerdings nicht ganz klar, weil wir bei der Lösung des Problems ausschließlich nochmal das Script neu geschrieben haben und eigentlich jetzt nur eine frühere Version eingesetzt haben.
+Ergänzend haben wir ein Problem an unserem Sprungscript gelöst, da dies noch nicht ganz perfekt war. Was genau das Problem war, ist uns allerdings nicht ganz klar, weil wir bei der Lösung des Problems ausschließlich nochmal das Script neu geschrieben haben und  jetzt eigentlich nur eine frühere Version einsetzen.
 
 <h3 id="zweizweinullzwei">22.02.19 - Zuhause</h3>
 <h4>Stundenaufwand: 2:30</h4>
 
-Heute haben wir Zuhause einen Schlüssel implementiert um zu Testen um das neu angefangene Script funktioniert. Diesen Schlüssel haben wir am selbigen Tag auch modelliert. Das ganze war erstaunlich einfach, weshalb wir es relativ schnell geschafft haben, das ganze mitsamt Texteinblendung und verschwinden des Schlüssels nach dem Aufsammeln zu verwirklichen.
+Heute haben wir Zuhause einen Schlüssel implementiert um zu testen wie das neu angefangene Script funktioniert. Diesen Schlüssel haben wir am selben Tag auch modelliert. Das ganze war erstaunlich einfach, weshalb wir es relativ schnell geschafft haben, das ganze mitsamt Texteinblendung und verschwinden des Schlüssels nach dem Aufsammeln zu verwirklichen. Zudem haben wir eine Abstandsbedingung implementiert, also dass der Text nur eingeblendet und der Schlüssel nur zerstört wird, wenn man sich in einem bestimmten Radius um den Schlüssel selbst befindet.
 
 Außerdem haben wir sowohl am Stundenprotokoll als auch an der Dokumentation weiter geschrieben und vor allem die am selben Tag gemachten Fortschritte, also das Aufsammeln des Schlüssels, mit Text und Bildern hineingeschrieben.
 
 <h3 id="nulleinsnulldrei">01.03.19 - Zuhause</h3>
 <h4>Stundenaufwand: 4:00</h4>
 
-Heute haben wir eine kaputte Brücke und ein Jump n Run von der ersten Insel zur Zwischeninsel gebaut. Damit das funktionierte, haben wir zuvor daher noch einmal am Jump Script gearbeitet, damit das auch gut funktioniert. 
+Heute haben wir eine kaputte Brücke und ein Jump n Run von der ersten Insel zur Zwischeninsel gebaut. Damit das funktionierte, haben wir zuvor daher noch einmal am Jump Script gearbeitet. 
 
 Außerdem haben wir versucht Ideen für die dritte Insel umzusetzten bzw. dessen Terrain zu formen. 
 
 <h3 id="nullviernulldrei">04.03.19 - Unterricht</h3>
 <h4>Stundenaufwand: 0:45</h4>
 
-Heute haben wir erneut an der Dokumentation gearbeitet. Da wir mit den Bildern der Palme, die wir beispielhaft einbinden wollten noch nicht ganz fertig geworden sind, haben wir vor allem das Fortgesetzt. Als wir damit fertig waren, haben wir den Eintrag noch einmal Korrektur gelesen.
+Heute haben wir erneut an der Dokumentation gearbeitet. Da wir mit den Bildern der Palme, die wir beispielhaft einbinden wollten noch nicht ganz fertig geworden sind, haben wir vor allem das fortgesetzt. Als wir damit fertig waren, haben wir den Eintrag noch einmal Korrektur gelesen.
 
 <h3 id="nullviernulldreiz">04.03.19 - Zuhause</h3>
 <h4>Stundenaufwand: 8:00</h4>
 
 Um eine Atmosphäre fürs Spiel zu erschaffen, haben wir uns daran versucht Musik in unser Spiel zu implementieren. Dafür haben wir diese in FL Studio 20 erstellt und uns dann darüber informiert wie man Musikzonen erstellen kann, sodass jede Insel einen eigenen Soundtrack bekommen kann. Außerdem haben wir uns mit der Funktionsweise von Soundeffekten beschäftigt.
-Musik + Musik Zonen + wie funktionieren sound effekte
 
 <h3 id="nullfünfnulldrei">05.03.19 - Unterricht</h3>
 <h4>Stundenaufwand: 1:30</h4>
 
-Heute haben wir ein Script für eine Lebensleiste geschrieben, damit durch später hinzukommende Gefahren der Schwierigkeitsgrad des Spiels erhöht wird. Außerdem haben wir weiterhin versucht Musikzonen einzubauen. Bisher mit wenig Erfolg.
+Heute haben wir ein Script für eine Lebensleiste geschrieben, damit durch später hinzukommende Gefahren der Schwierigkeitsgrad des Spiels erhöht wird. Da der Charakter im Wasser Schaden bekommen sollte, war es nötig, einen Timer zu erstellen, der nur runterzählt, wenn der Spieler sich im Wasser befindet und bei einem bestimmten Wert ein Event (also GameOver) auslöst. Außerdem haben wir weiterhin versucht Musikzonen einzubauen, dies bisher aber mit wenig Erfolg. 
 
 <h3 id="nullfünfnulldreiz">05.03.19 - Zuhause</h3>
 <h4>Stundenaufwand: 2:00</h4>
@@ -278,12 +277,12 @@ Heute Nachmittag haben wir wieder einmal am Stundenblog gearbeitet und weiter au
 <h3 id="zweiviernulldrei">24.03.19 - Zuhause</h3>
 <h4>Stundenaufwand: 3:30</h4>
 
-Da wir bereits die letzten paar Male am Stundenblog gearbeitet haben, ist unser Stundenprotokoll fast fertig. Daher haben wir heute nocheinmal einiges an Zeit genutzt, um noch einmal alle Einträge zu überarbeiten und noch ein paar kleine Stichpunkte auszuformulieren. Da wir leider noch kaum Rechtschreib- und Formulierungsfehler korrigiert haben, müssen wir auch die nächsten zwei Stunden nutzen, um den Stundenblog weiter zu bearbeiten. 
+Da wir bereits die letzten paar Male am Stundenblog gearbeitet haben, ist unser Stundenprotokoll fast fertig. Daher haben wir heute noch einmal einiges an Zeit genutzt, um alle Einträge zu überarbeiten und noch ein paar kleine Stichpunkte auszuformulieren. Da wir leider noch kaum Rechtschreib- und Formulierungsfehler korrigiert haben, müssen wir auch die nächsten zwei Unterrichtsstunden nutzen, um den Stundenblog weiter zu bearbeiten. 
 
 <h3 id="zweifünfnulldrei">25.03.19 - Unterricht</h3>
 <h4>Stundenaufwand: 0:45</h4>
 
-Heute haben wir erneut am Stundenblog gearbeitet. Dabei haben wir aufgeteilt, was noch genau zu tun ist, also korrekturlesen, das Inhaltsverzeichnis überprüfen und die Stunden zählen und aufgeteilt, wer was macht, um alles rechtzeitig für die Abgabe zu schaffen.
+Heute haben wir erneut am Stundenblog gearbeitet. Dabei haben wir aufgeteilt, was noch genau zu tun ist, also korrekturlesen, das Inhaltsverzeichnis überprüfen und die Stunden zählen um alles rechtzeitig für die Abgabe zu schaffen.
 
 <h3 id="zweisechsnulldrei">26.03.19 - Unterricht</h3>
 <h4>Stundenaufwand: 1:30</h4>
@@ -292,5 +291,4 @@ Heute war dann endlich der Tag, an dem wir unseren Stundenblog beendet haben. Sc
 
 <h1>Nachwort</h1>
 
-Abschließend lässt sich sagen, dass auch bei diesem Projekt einige 
 
