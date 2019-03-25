@@ -3,7 +3,7 @@
 
 <b>Stundenaufwand: 87:45 Stunden</b>
 <h1>Vorwort</h1>
-In diesem Repository haben wir alle Inhalte der Unterrichtsstunden und privaten Treffen im Rahmen unseres ersten Informatikprojekts notiert. Das Ergebnis unserer Arbeit ist ein 3D-Game, in welchem das Ziel ist, von einer verlassenen Insel zu entkommen, indem man inGame einige Aufgaben bzw. Quests löst.
+In diesem Repository haben wir alle Inhalte der Unterrichtsstunden und privaten Treffen im Rahmen unseres zweiten Informatikprojekts notiert. Das Ergebnis unserer Arbeit ist ein 3D-Game, in welchem das Ziel ist, von einer verlassenen Insel zu entkommen, indem man inGame einige Aufgaben bzw. Quests löst.
 <br/><br/>
 Im Vergleich zu letztem mal, wollten wir dieses mal vor allem einen gestalterischen Anspruch umsetzten, weshalb wir neben der umfangreichen Programmierung auch viel und gerne Zeit in die grafische Gestaltung unseres Projektes gesteckt haben. Wie wir das ganze umgesetzt haben und wie das angegangen wird, lässt sich außerdem auf einer Projektseite nachlesen: <a href="#">Link</a>
 <br/><br/>
