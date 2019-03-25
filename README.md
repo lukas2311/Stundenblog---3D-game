@@ -1,7 +1,6 @@
 # Stundenprotokoll - Informatik Projekt 2. Halbjahr
 <b>Torben Starken, Lukas Mackel - Klasse 12e</b>
 
-<b>Stundenaufwand: 87:45 Stunden</b>
 <h1>Vorwort</h1>
 In diesem Repository haben wir alle Inhalte der Unterrichtsstunden und privaten Treffen im Rahmen unseres zweiten Informatikprojekts notiert. Das Ergebnis unserer Arbeit ist ein 3D-Game, in welchem das Ziel ist, von einer verlassenen Insel zu entkommen, indem man inGame einige Aufgaben bzw. Quests löst.
 <br/><br/>
@@ -15,7 +14,7 @@ Im Vergleich zu letztem Halbjahr wollten wir dieses Mal, anstatt des Physical Co
 
 2. Als Anfänger ist es oftmals nötig, sich, bevor man mit irgendwas startet, mit der Funktionsweise der genutzten Funktionen auseinanderzusetzen, um bei Bugs auch erkennen zu können, wo der Fehler liegt, und was zu verbessern ist. Letztendlich spart dies einiges an Zeit bei der Entwicklung.
 
-3. Während des Entwicklungsprozesses ist es zudem sinnvoll, immer wieder das Spiel zu exportieren und einen In-Action-Test zu machen. Wir haben dies währenddessen immer wieder gemacht, da man hier im Vergleich zu Tests, die man innerhalb der Engine macht, weitere Glitches und Bugs erkennen kann. Dabei sollte darauf geachtet werden, dass man mit dem Charakter einmal sämtliche Stellen der Map abläuft und quasi versucht einen Bug/Glitch zu erzeugen, indem man zum Beispiel an Stellen spring oder sprintet, an denen man dies normalerweise nicht tut. Nur solche Stress-Tests zeigen, wo Fehler im Spiel liegen und wo man noch nachzubessern hat. 
+3. Während des Entwicklungsprozesses ist es zudem sinnvoll, das Spiel immer wieder zu exportieren und einen In-Action-Test zu machen. Wir haben dies währenddessen mehrfach gemacht, da man hier im Vergleich zu Tests, die man innerhalb der Engine macht, weitere Glitches und Bugs erkennen kann. Dabei sollte darauf geachtet werden, dass man mit dem Charakter einmal sämtliche Stellen der Map abläuft und quasi versucht einen Bug/Glitch zu erzeugen, indem man zum Beispiel an Stellen spring oder sprintet, an denen man dies normalerweise nicht tut. Nur solche Stress-Tests zeigen, wo Fehler im Spiel liegen und wo man noch nachzubessern hat. 
 
 <h1>Inhaltsverzeichnis</h1>
 <ul>
@@ -49,7 +48,10 @@ Im Vergleich zu letztem Halbjahr wollten wir dieses Mal, anstatt des Physical Co
   <li><a href="#nullfünfnulldrei">05.03.19 - Unterricht</a></li>
   <li><a href="#nullfünfnulldreiz">05.03.19 - Zuhause</a></li>
   <li><a href="#einsachtnulldrei">18.03.19 - Unterricht</a></li> 
-  <li><a href="#zweizweinulldrei">18.03.19 - Unterricht</a></li> 
+  <li><a href="#zweizweinulldrei">22.03.19 - Zuhause</a></li> 
+  <li><a href="#zweiviernulldrei">24.03.19 - Zuhause</a></li>
+  <li><a href="#zweifünfnulldrei">25.03.19 - Unterricht</a></li>
+  <li><a href="#zweisechsnulldrei">26.03.19 - Unterricht</a></li>
 </ul>
 
 
