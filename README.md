@@ -13,7 +13,7 @@ Im Vergleich zu letztem Halbjahr wollten wir dieses Mal, anstatt des Physical Co
 
 1. Dieses Projekt entspricht für einen Anfänger ungefähr einem Zeitaufwand von 87:45 Stunden. Je nach Anspruch an Komplexität und Funktionalität weicht dies natürlich stark oder weniger stark ab.
 
-2. Als Anfänger ist es oftmals nötig, sich, bevor man mit irgendwas startet, mit der Funktionsweise der genutzten Funktionen auseinandersetzt, um bei Fehlern im Code oder bei Bugs auch erkennen zu können, wo der Fehler liegt, und was zu verbessern ist. Letztlich spart dies einiges an Zeit bei der Entwicklung.
+2. Als Anfänger ist es oftmals nötig, sich, bevor man mit irgendwas startet, mit der Funktionsweise der genutzten Funktionen auseinanderzusetzen, um bei Bugs auch erkennen zu können, wo der Fehler liegt, und was zu verbessern ist. Letztendlich spart dies einiges an Zeit bei der Entwicklung.
 
 3. Während des Entwicklungsprozesses ist es zudem sinnvoll, immer wieder das Spiel zu exportieren und einen In-Action-Test zu machen. Wir haben dies währenddessen immer wieder gemacht, da man hier im Vergleich zu Tests, die man innerhalb der Engine macht, weitere Glitches und Bugs erkennen kann. Dabei sollte darauf geachtet werden, dass man mit dem Charakter einmal sämtliche Stellen der Map abläuft und quasi versucht einen Bug/Glitch zu erzeugen, indem man zum Beispiel an Stellen spring oder sprintet, an denen man dies normalerweise nicht tut. Nur solche Stress-Tests zeigen, wo Fehler im Spiel liegen und wo man noch nachzubessern hat. 
 
