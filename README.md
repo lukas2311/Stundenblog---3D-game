@@ -22,7 +22,7 @@ Im Vergleich zu letztem Halbjahr wollten wir dieses Mal, anstatt des Physical Co
   <li><a href="#hinweise">Hinweise</a></li>
   <li><a href="#">Arbeitsaufwand</a></li>
   <details>
-  <summary>Arbeitstage</summary>
+  <summary>Arbeitstage (aufklappen)</summary>
     <li><a href="#einssiebeneinszwei">17.12.18 - Unterricht<a></li>
     <li><a href="#einsachteinszwei">18.12.18 - Unterricht<a></li>
     <li><a href="#einsachteinszweiz">18.12.18 - Zuhause<a></li>
