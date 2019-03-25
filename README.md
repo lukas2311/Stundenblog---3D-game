@@ -225,7 +225,9 @@ Außerdem haben wir sowohl am Stundenprotokoll als auch an der Dokumentation wei
 <h3 id="nulleinsnulldrei">01.03.19 - Zuhause</h3>
 <h4>Stundenaufwand: 4:00</h4>
 
-Heute haben wir eine kaputte Brücke und ein Jump n Run von der ersten Insel zur Zwischeninsel gebaut. Außerdem haben wir versucht Ideen für die dritte Insel umzusetzten bzw. dessen Terrain zu formen. 
+Heute haben wir eine kaputte Brücke und ein Jump n Run von der ersten Insel zur Zwischeninsel gebaut. Damit das funktionierte, haben wir zuvor daher noch einmal am Jump Script gearbeitet, damit das auch gut funktioniert. 
+
+Außerdem haben wir versucht Ideen für die dritte Insel umzusetzten bzw. dessen Terrain zu formen. 
 
 <h3 id="nullviernulldrei">04.03.19 - Unterricht</h3>
 <h4>Stundenaufwand: 0:45</h4>
@@ -264,5 +266,15 @@ Heute Nachmittag haben wir wieder einmal am Stundenblog gearbeitet und weiter au
 <h4>Stundenaufwand: 3:30</h4>
 
 Da wir bereits die letzten paar Male am Stundenblog gearbeitet haben, ist unser Stundenprotokoll fast fertig. Daher haben wir heute nocheinmal einiges an Zeit genutzt, um noch einmal alle Einträge zu überarbeiten und noch ein paar kleine Stichpunkte auszuformulieren. Da wir leider noch kaum Rechtschreib- und Formulierungsfehler korrigiert haben, müssen wir auch die nächsten zwei Stunden nutzen, um den Stundenblog weiter zu bearbeiten. 
+
+<h3 id="zweifünfnulldrei">25.03.19 - Unterricht</h3>
+<h4>Stundenaufwand: 0:45</h4>
+
+Heute haben wir erneut am Stundenblog gearbeitet. Dabei haben wir aufgeteilt, was noch genau zu tun ist, also korrekturlesen, das Inhaltsverzeichnis überprüfen und die Stunden zählen und aufgeteilt, wer was macht, um alles rechtzeitig für die Abgabe zu schaffen.
+
+<h3 id="zweisechsnulldrei">26.03.19 - Unterricht</h3>
+<h4>Stundenaufwand: 1:30</h4>
+
+Heute war dann endlich der Tag, an dem wir unseren Stundenblog beendet haben. Schreiben, Strukturieren, Korrekturlesen, Verbessern usw. sind damit abgeschlossen und wir haben dann einen Link zu unserem Blog an Herrn Buhl geschickt.
 
 
