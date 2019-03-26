@@ -182,27 +182,26 @@ In der heutigen Unterrichtstunde haben wir das Stundenprotokoll weiter ausformul
 
 In der Doppelstunde heute haben wir an der Dokumentation weitergearbeitet. So langsam wurde auch diese sehr umfangreich, weshalb wir auch diese, wie letzte Stunde das Protokoll, einmal strukturierten. Wir haben also eine Aufteilung in das Design, das Gameplay und die Programmierung vorgenommen und eine grobe Einleitung mit den Zielen des Projektes verfasst.
 
-Außerdem haben wir ein Script geschrieben, damit die Maus im Spiel nicht zu sehen ist, außer wenn das Pausemenü aufgerufen wird. Parallel haben wir ein Script für ein Pausemenü begonnen. Dies funktionierte aber noch nicht ganz einwandfrei, denn das Pausemenü wollte plötzlich nicht mehr verschwinden. Wir ließen das Problem erstmal so und wandten uns der Erstellung des Menü-Bildschirms zu. Da dies relativ einfach ging, hatten wir gegen Ende der Stunde bereits einen halbwegs funktionstüchtigen Prototypen. 
+Parallel haben wir ein Script für ein Pausemenü begonnen. Dies funktionierte aber noch nicht ganz einwandfrei, denn das Pausemenü wollte plötzlich nicht mehr verschwinden. Wir ließen das Problem erstmal so und wandten uns der Erstellung des Pausemenü-GameObjektes zu. Da dies relativ einfach ging, hatten wir gegen Ende der Stunde bereits einen halbwegs funktionstüchtigen Prototypen. 
+
+Außerdem haben wir ein Script geschrieben, damit die Maus im Spiel nicht zu sehen ist, außer wenn das zuvor geschriebene Pausemenü aufgerufen wird. Auch dies war leider nicht ganz einfach: Denn die Maus verschwand zwar im Spiel und wurde wieder eingeblendet, wenn man das Menü öffnete, wollte dann aber nicht mehr verschwinden. 
 
 <h3 id="zweidreinulleins">23.01.19 - Zuhause</h3>
 <h4>Stundenaufwand: 05:00 </h4>
 
-Das Problem, dass die Maus nachdem das Pausemenü aufgerufen wurde nicht mehr verschwindet, haben wir heute lösen können. Rückblickend war das Problem eigentlich recht simpel, es fehlte lediglich ein else() in einer if-Schleife.
+Das Problem, dass die Maus, nachdem das Pausemenü aufgerufen wurde, nicht mehr verschwindet, haben wir heute gut umgehen können: Undzwar haben wir, statt des Ein- und Ausblendens der Maus durch Drücken der Escape-Taste, einfach überprüft, ob das Pausemenü im Menü-Script geöffnet ist. Abhängig davon haben wir dann eine Variable verändert, welche an das Maus-Script übergeben wurde und nach der dann die Maus aus- oder eingeblendet wurde.
 
 Desweiteren haben wir der Dokumentation weitergearbeitet. Parallel haben wir einen Kaktus für die zweite Insel modelliert, die erste Insel verschönert und eigene Texturen für Grasboden und Sandboden in Photoshop gezeichnet.
 
 <h3 id="zweineunnulleins">29.01.19 - Unterricht</h3>
 <h4>Stundenaufwand: 01:30</h4>
 
-Im Unterricht heute, haben wir an der Dokumentation geschrieben und das Terrain für die zweite Insel geformt und geplant, was für Gegenstände auf dieser zu finden seien sollen. Zum einen wollten wir eine verlassene Hütte mit der Quest, einen Schlüssel aufzusammeln implementieren, zum anderen haben wir uns darauf geeinigt, wie der Spieler eigentlich am Ende von der Insel entkommen könnte. Währenddessen überöegten wir, wie man ein solches Schlüssel-aufsammeln eigentlich macht und wie wir das dann umsetzten wollten.
-
-Da wir in einen zweiten Raum und somit zwei Computer gleichzeitig nutzen konnten, haben wir mehrere Sachen gleichzeitig erledigen können, was uns deutlich produktiver machte. 
+Im Unterricht heute haben wir an der Dokumentation geschrieben und das Terrain für die zweite Insel geformt und geplant, was für Gegenstände auf den Inseln zu finden seien sollen. Zum einen wollten wir eine verlassene Hütte mit der Quest, einen Schlüssel aufzusammeln, implementieren, zum anderen haben wir uns darauf geeinigt, wie der Spieler eigentlich am Ende von der Insel entkommen könnte. Währenddessen überlegten wir, wie man ein solches Schlüssel-Aufsammeln eigentlich macht und wie wir das dann umsetzten wollten.
 
 <h3 id="nullviernullzwei">04.02.19 - Unterricht</h3>
 <h4>Stundenaufwand: 0:45</h4>
 
-Heute haben wir die Arbeit an unser Dokumentation fortgesetzt und unser Stundenprotokoll gepflegt. Viel neues haben wir allerdings nicht geschrieben, da wir heute vor allem das bereits geschriebene Korrektur gelesen.
-
+Heute haben wir die Arbeit an unser Dokumentation fortgesetzt und unser Stundenprotokoll gepflegt. Viel neues haben wir allerdings nicht geschrieben, da wir heute vor allem das bereits Geschriebene Korrektur gelesen haben.
 
 <h3 id="einszweinullzwei">12.02.19 - Unterricht</h3>
 <h4>Stundenaufwand: 01:30</h4>
