@@ -189,7 +189,7 @@ Außerdem haben wir ein Script geschrieben, damit die Maus im Spiel nicht zu seh
 <h3 id="zweidreinulleins">23.01.19 - Zuhause</h3>
 <h4>Stundenaufwand: 05:00 </h4>
 
-Das Problem, dass die Maus, nachdem das Pausemenü aufgerufen wurde, nicht mehr verschwindet, haben wir heute gut umgehen können: Undzwar haben wir, statt des Ein- und Ausblendens der Maus durch Drücken der Escape-Taste, einfach überprüft, ob das Pausemenü im Menü-Script geöffnet ist. Abhängig davon haben wir dann eine Variable verändert, welche an das Maus-Script übergeben wurde und nach der dann die Maus aus- oder eingeblendet wurde.
+Das Problem, dass die Maus, nachdem das Pausemenü aufgerufen wurde, nicht mehr verschwindet, haben wir heute gut umgehen können: Und zwar haben wir, statt des Ein- und Ausblendens der Maus durch Drücken der Escape-Taste, einfach überprüft, ob das Pausemenü im Menü-Script geöffnet ist. Abhängig davon haben wir dann eine Variable verändert, welche an das Maus-Script übergeben wurde und nach der dann die Maus aus- oder eingeblendet wurde.
 
 Desweiteren haben wir der Dokumentation weitergearbeitet. Parallel haben wir einen Kaktus für die zweite Insel modelliert, die erste Insel verschönert und eigene Texturen für Grasboden und Sandboden in Photoshop gezeichnet.
 
@@ -201,76 +201,76 @@ Im Unterricht heute haben wir an der Dokumentation geschrieben und das Terrain f
 <h3 id="nullviernullzwei">04.02.19 - Unterricht</h3>
 <h4>Stundenaufwand: 0:45</h4>
 
-Heute haben wir die Arbeit an unser Dokumentation fortgesetzt und unser Stundenprotokoll gepflegt. Viel neues haben wir allerdings nicht geschrieben, da wir heute vor allem das bereits Geschriebene Korrektur gelesen haben.
+Heute haben wir die Arbeit an unser Dokumentation fortgesetzt und unser Stundenprotokoll gepflegt. Viel Neues haben wir allerdings nicht geschrieben, da wir heute vor allem das bereits Geschriebene Korrektur gelesen haben.
 
 <h3 id="einszweinullzwei">12.02.19 - Unterricht</h3>
 <h4>Stundenaufwand: 01:30</h4>
 
 In der heutigen Stunde haben wir an der Dokumentation gearbeitet. Diesmal haben wir allerdings neue Einträge erstellt. Vor allem zum Pausemenü, wessen Umfang allerdings etwas ausgeufert ist. Zudem fehlte bei dem Eintrag der Kamerasteuerung noch einiges an Code, welchen wir dann ergänzt haben. 
-
-Parallel haben wir noch einen weiteren Game-Test vorgenommmen um die bisherigen Ergänzungen noch einmal zu testen.
+Parallel haben wir noch einen weiteren Game-Test vorgenommmen um die bisherigen Ergänzungen noch einmal zu testen. Bisher hat davon alles funktioniert.
 
 <h3 id="einssechsnullzwei">16.02.19 - Zuhause</h3>
 <h4>Stundenaufwand: 07:00</h4>
 
-Am heutigen Tag haben wir eine kleine Zwischeninsel gestaltet. Die dafür benötigten Palmen haben wir modelliert und jeden einzelnen Arbeitsschritt daran für die Dokumentation gescreenshotet. Außerdem haben wir weitere Gräser bearbeitet, die zur jeweiligen Umgebung besser passen. So konnten wir rote Gräser für die Wüste und lange etwas gelblichere Gräser ins Wasser platzieren. 
+Am heutigen Tag haben wir eine kleine Zwischeninsel gestaltet. Die dafür benötigten Palmen haben wir modelliert und jeden einzelnen Arbeitsschritt daran für die Dokumentation gescreenshottet. Außerdem haben wir weitere Gräser bearbeitet, die zur jeweiligen Umgebung besser passen. So konnten wir rote Gräser für die Wüste und lange etwas gelblichere Gräser ins Wasser platzieren. 
 
-Zudem haben wir weiter am Pausemenü gearbeitet und erste Recherchen zu einem Hauptmenü vorgenommen. Da dies allerdings nciht ganz so einfach ist und aktuell keine Priorität hat, haben wir dies erstmal zurückgestellt. Da das Pausemenü noch nicht ganz perfekt war, haben wir dann Knöpfe hinzugefügt, mit denen man das Spiel beenden oder fortsetzen kann. Den Rest des Pausemenüs haben wir ja bereits zuvor geschrieben, das Spiel wurde erfolgreich gestoppt, als das Menü geöffnet war, aber die Drehung des Charakters war noch möglich, wennman die Mause bewegte. Daher haben wir das noch einmal behoben und damit das Pausemenü abgeschlossen.
+Zudem haben wir weiter am Pausemenü gearbeitet und erste Recherchen zu einem Hauptmenü vorgenommen. Da dies allerdings nicht ganz so einfach ist und aktuell keine Priorität hat, haben wir dies erstmal zurückgestellt. Da das Pausemenü noch nicht ganz perfekt war, haben wir dann Knöpfe hinzugefügt, mit denen man das Spiel beenden oder fortsetzen kann. Den Rest des Pausemenüs haben wir ja bereits zuvor geschrieben, das Spiel wurde erfolgreich gestoppt, als das Menü geöffnet war, aber die Drehung des Charakters war noch möglich, wenn man die Mause bewegte. Daher haben wir das noch einmal behoben und damit das Pausemenü abgeschlossen.
 
 <h3 id="einsneunnullzwei">19.02.19 - Unterricht</h3>
 <h4>Stundenaufwand: 01:30</h4>
 
 Heute haben wir an der Dokumentation gearbeitet und die Bilder von der Palme eingebunden. Da wir nämlich beispielhaft die Modellierung eines Objektes in Blender darstellen wollten, haben wir viele Screenshots gemacht, die nun zurechtgeschnitten, bearbeitet und in die Projektseite eingepflegt werden mussten.
 
-Zudem haben wir angefangen ein Script zu schreiben, wodurch der Charakter Gegenstände wie z.B. einen Schlüssel aufheben kann, um endlich einmal ein wenig GamePlay in das Spiel zu implementieren und so ein bisschen Leben in das Spiel zu bringen. Obwohl wir dachten, das ganze sei relativ schwierig zu lösen, haben wir einen relativ simplen Lösungsansatz entwickelt und ausprobiert. Zunächst war unser Ziel, ein Objekt zu zerstören, wenn man in der näheren Umgebung E drückt.
+Zudem haben wir angefangen ein Script zu schreiben, wodurch der Charakter Gegenstände wie z.B. einen Schlüssel aufheben kann, um endlich einmal ein wenig Gameplay in das Spiel zu implementieren und so ein bisschen Leben in das Spiel zu bringen. Obwohl wir dachten, das ganze sei relativ schwierig zu lösen, haben wir einen relativ simplen Lösungsansatz entwickelt und ausprobiert. Zunächst war unser Ziel, ein Objekt zu zerstören, wenn man in der näheren Umgebung E drückt.
 
-Ergänzend haben wir ein Problem an unserem Sprungscript gelöst, da dies noch nicht ganz perfekt war. Was genau das Problem war, ist uns allerdings nicht ganz klar, weil wir bei der Lösung des Problems ausschließlich nochmal das Script neu geschrieben haben und  jetzt eigentlich nur eine frühere Version einsetzen.
+Ergänzend haben wir ein Problem an unserem Sprungscript gelöst, da dies noch nicht ganz perfekt war. Was genau das Problem war, ist uns allerdings nicht ganz klar, weil wir bei der Lösung des Problems ausschließlich nochmal das Script neu geschrieben haben und jetzt eigentlich nur eine frühere Version einsetzen.
 
 <h3 id="zweizweinullzwei">22.02.19 - Zuhause</h3>
 <h4>Stundenaufwand: 2:30</h4>
 
-Heute haben wir Zuhause einen Schlüssel implementiert um zu testen wie das neu angefangene Script funktioniert. Diesen Schlüssel haben wir am selben Tag auch modelliert. Das ganze war erstaunlich einfach, weshalb wir es relativ schnell geschafft haben, das ganze mitsamt Texteinblendung und verschwinden des Schlüssels nach dem Aufsammeln zu verwirklichen. Zudem haben wir eine Abstandsbedingung implementiert, also dass der Text nur eingeblendet und der Schlüssel nur zerstört wird, wenn man sich in einem bestimmten Radius um den Schlüssel selbst befindet.
+Heute haben wir Zuhause einen Schlüssel implementiert, um zu testen wie das neu angefangene Script funktioniert. Diesen Schlüssel haben wir am selben Tag auch modelliert. Das ganze war erstaunlich einfach, weshalb wir es relativ schnell geschafft haben, das ganze mitsamt Texteinblendung und Verschwinden des Schlüssels nach dem Aufsammeln zu verwirklichen. Zudem haben wir eine Abstandsbedingung implementiert, also dass der Text nur eingeblendet und der Schlüssel nur zerstört wird, wenn man sich in einem bestimmten Radius um den Schlüssel selbst befindet.
 
 Außerdem haben wir sowohl am Stundenprotokoll als auch an der Dokumentation weiter geschrieben und vor allem die am selben Tag gemachten Fortschritte, also das Aufsammeln des Schlüssels, mit Text und Bildern hineingeschrieben.
 
 <h3 id="nulleinsnulldrei">01.03.19 - Zuhause</h3>
 <h4>Stundenaufwand: 4:00</h4>
 
-Heute haben wir eine kaputte Brücke und ein Jump n Run von der ersten Insel zur Zwischeninsel gebaut. Damit das funktionierte, haben wir zuvor daher noch einmal am Jump Script gearbeitet. 
+Heute haben wir eine kaputte Brücke und ein Jump n Run von der ersten Insel zur Zwischeninsel gebaut, um das Gameplay ein bisschen spannender zu machen und den Spieler mehr zu fordern. Damit das funktionierte, haben wir zuvor daher noch einmal am Jump Script gearbeitet, sodass wir eine passendere Sprunghöhe und Flugzeit bzw. Gravitationskraft haben, an die die Entfernungen im Jump n Run angepasst werden kann.
 
-Außerdem haben wir versucht Ideen für die dritte Insel umzusetzten bzw. dessen Terrain zu formen. 
+Außerdem haben wir versucht Ideen für die dritte Insel umzusetzten bzw. dessen Terrain zu formen. Es standen zuerst eine Vulkaninsel, ein Berg, eine Schlucht und eine Klippe zur Auswahl. Nach einigen Umsetztungsversuchen, haben wir uns für eine Vulkaninsel entschieden und fingen an diese in Blender zu modellieren und zu überlegen, wie man einen Vulkanausbruch programmiertechnisch umsetzen und visualisieren kann.
 
 <h3 id="nullviernulldrei">04.03.19 - Unterricht</h3>
 <h4>Stundenaufwand: 0:45</h4>
 
-Heute haben wir erneut an der Dokumentation gearbeitet. Da wir mit den Bildern der Palme, die wir beispielhaft einbinden wollten noch nicht ganz fertig geworden sind, haben wir vor allem das fortgesetzt. Als wir damit fertig waren, haben wir den Eintrag noch einmal Korrektur gelesen.
+Heute haben wir erneut an der Dokumentation gearbeitet. Da wir mit den Bildern der Palme, die wir beispielhaft einbinden wollten, noch nicht ganz fertig geworden sind, haben wir vor allem das fortgesetzt. Als wir damit fertig waren, haben wir den Eintrag noch einmal Korrektur gelesen.
 
 <h3 id="nullviernulldreiz">04.03.19 - Zuhause</h3>
 <h4>Stundenaufwand: 8:00</h4>
 
-Um eine Atmosphäre fürs Spiel zu erschaffen, haben wir uns daran versucht Musik in unser Spiel zu implementieren. Dafür haben wir diese in FL Studio 20 erstellt und uns dann darüber informiert wie man Musikzonen erstellen kann, sodass jede Insel einen eigenen Soundtrack bekommen kann. Außerdem haben wir uns mit der Funktionsweise von Soundeffekten beschäftigt.
+Um eine Atmosphäre fürs Spiel zu erschaffen, haben wir uns daran versucht Musik in unser Spiel zu implementieren. Dafür haben wir diese in FL Studio 20 erstellt, was sehr viel Zeit gekostet hat, da es uns sehr schwer gefallen ist einen Soundtrack mit richtiger Stimmung zu schreiben. Darüber hinaus haben wir uns darüber informiert wie man Musikzonen erstellen kann, sodass jede Insel einen eigenen Soundtrack bekommen kann. Außerdem haben wir uns mit der Funktionsweise von Soundeffekten beschäftigt.
 
 <h3 id="nullfünfnulldrei">05.03.19 - Unterricht</h3>
 <h4>Stundenaufwand: 1:30</h4>
 
-Heute haben wir ein Script für eine Lebensleiste geschrieben, damit durch später hinzukommende Gefahren der Schwierigkeitsgrad des Spiels erhöht wird. Da der Charakter im Wasser Schaden bekommen sollte, war es nötig, einen Timer zu erstellen, der nur runterzählt, wenn der Spieler sich im Wasser befindet und bei einem bestimmten Wert ein Event (also GameOver) auslöst. Außerdem haben wir weiterhin versucht Musikzonen einzubauen, dies bisher aber mit wenig Erfolg. 
+Heute haben wir ein Script für eine Lebensleiste geschrieben, damit durch später hinzukommende Gefahren der Schwierigkeitsgrad des Spiels erhöht wird. Da der Charakter im Wasser Schaden bekommen sollte, war es nötig, einen Timer zu erstellen, der nur runterzählt, wenn der Spieler sich im Wasser befindet und bei einem bestimmten Wert ein Event (also GameOver) auslöst. Außerdem haben wir weiterhin versucht Musikzonen einzubauen, dies bisher aber mit wenig Erfolg.
+Während wir an dem Script gearbeitet haben, haben wir einen Piranha modelliert und animiert. Dieser dient vorallem als Grund bzw. Erklärung für das Sterben des Spieler im Wasser - durch einen Piranhaangriff.
 
 <h3 id="nullfünfnulldreiz">05.03.19 - Zuhause</h3>
 <h4>Stundenaufwand: 2:00</h4>
 
 Da wir nun das Datum für die Abgabe wissen, haben wir uns daran gemacht, das Stundenprotokoll und die Dokumentation deutlich mehr auszuformulieren, um alles rechtzeitig für die Abgabe zu schaffen. 
 
-Die Zeit heute haben wir daher genutzt um an der Dokumentation weiterzuarbeiten, sowie Stichpunkte aus dem Stundenprotokoll auszuformulieren. Da wir im Stundenprotokoll während unseres Arbeitsprozesses alles in Stichpunkten festgehalten haben, haben wir nun angefangen, alle Stichpunkte in einen Text auszuformulieren.
+Die Zeit heute haben wir daher genutzt um an der Dokumentation weiterzuarbeiten, sowie Stichpunkte aus dem Stundenprotokoll auszuformulieren. Da wir im Stundenprotokoll während unseres Arbeitsprozesses alles in Stichpunkten festgehalten haben, fingen wir nun an, alle Stichpunkte in einen Text auszuformulieren.
   
 <h3 id="einsachtnulldrei">18.03.19 - Unterricht</h3>
 <h4>Stundenaufwand: 0:45</h4>
 
-Auch heute haben wir die Unterrichtsstunde genutzt, um am Stundenprotokoll zu arbeiten. Wieder haben wir alle vorhandenen Stichpunkte ausformuliert und aktuelle Einträge ergänzt.
+Auch heute haben wir die Unterrichtsstunde genutzt, um am Stundenprotokoll zu arbeiten. Wieder haben wir weitere vorhandene Stichpunkte ausformuliert und aktuelle Einträge ergänzt.
 
 <h3 id="zweizweinulldrei">22.03.19 - Zuhause</h3>
 <h4>Stundenaufwand: 1:30</h4>
 
-Heute Nachmittag haben wir wieder einmal am Stundenblog gearbeitet und weiter ausformuliert. Zudem haben wir angefangen, sämtliche Texte nun inhaltlich zu prüfen und zu verbessern.
+Heute Nachmittag haben wir wieder einmal am Stundenblog gearbeitet und weiter ausformuliert. Zudem haben wir angefangen sämtliche Texte nun inhaltlich zu prüfen und zu verbessern. Außerdem haben wir begonnen, ein Vorwort, sowie Hinweise zu formulieren.
 
 <h3 id="zweiviernulldrei">24.03.19 - Zuhause</h3>
 <h4>Stundenaufwand: 3:30</h4>
@@ -280,12 +280,12 @@ Da wir bereits die letzten paar Male am Stundenblog gearbeitet haben, ist unser 
 <h3 id="zweifünfnulldrei">25.03.19 - Unterricht</h3>
 <h4>Stundenaufwand: 0:45</h4>
 
-Heute haben wir erneut am Stundenblog gearbeitet. Dabei haben wir aufgeteilt, was noch genau zu tun ist, also korrekturlesen, das Inhaltsverzeichnis überprüfen und die Stunden zählen um alles rechtzeitig für die Abgabe zu schaffen.
+Heute haben wir erneut am Stundenblog gearbeitet. Dabei haben wir aufgeteilt, was noch genau zu tun ist, also Korrekturlesen, das Inhaltsverzeichnis überprüfen und die Stunden zählen um alles rechtzeitig für die Abgabe zu schaffen.
 
 <h3 id="zweisechsnulldrei">26.03.19 - Unterricht</h3>
 <h4>Stundenaufwand: 1:30</h4>
 
-Heute war dann endlich der Tag, an dem wir unseren Stundenblog beendet haben. Schreiben, Strukturieren, Korrekturlesen, Verbessern usw. sind damit abgeschlossen und wir haben dann einen Link zu unserem Blog an Herrn Buhl geschickt.
+Heute war dann endlich der Tag, an dem wir unseren Stundenblog beendet und das Nachwort formuliert haben. Schreiben, Strukturieren, Korrekturlesen, Verbessern usw. sind damit abgeschlossen und wir haben dann einen Link zu unserem Blog an Herrn Buhl geschickt.
 
 <h1>Nachwort</h1>
 
