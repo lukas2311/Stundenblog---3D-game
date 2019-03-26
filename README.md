@@ -289,4 +289,4 @@ Heute war dann endlich der Tag, an dem wir unseren Stundenblog beendet und das N
 
 <h1>Nachwort</h1>
 
-
+Wie im letzten Informatikprojekt gab es auch diesmal wieder einige Stolpersteine. So haben Kameraführung und Sprung-Scipt deutlich zu viel Zeit beansprucht und wir haben uns des Öfteren etwas zu viel im Design und der Gestaltung der Karte verloren. Über unseren Anspruch, den Umfang und die möglichen Probleme waren wir uns schon zu Beginn bereits bewusst, weshalb wir bereits in den Weihnachtsferien angefangen haben an dem Projekt zu arbeiten, um nicht, wie im Projekt zuvor, gegen Ende hin in Zeitstress zu geraten. Dennoch waren wir jetzt am Ende sehr erstaunt darüber, wie viel Zeit wir doch in das Projekt investiert haben und welchen Umfang das ganze bekommen hat, denn unser Anspruch, jegliche Modelle und Texturen sowie Scripts selber zu schreiben, hat das ganze etwas groß werden lassen. Allerdings sind wir mit dem jetzigen Stand des Spiels sehr zufrieden und wir denken, dass bis zum Ende der Projektarbeit noch einiges an Fortschritt sowohl im Projekt, als auch in der Dokumentation zu beobachten sein werden.
