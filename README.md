@@ -89,12 +89,12 @@ Da uns der Low-Poly-Cartoon-Stil zusagte, wollten wir diesen auch in unserem Pro
   
 Heute haben wir damit begonnen ein kleines Terrain in Unity zu modellieren und überlegt, wie wir einen eigenen Charakter für die Spielwelt umsetzen können. 
 
-Da wir große Fans der Creative Cloud von Adobe und überzeugt von der Qualität und Funktionalität der enthaltenen Programme sind, wollten wir das sich noch in der Beta befindene Tool Adobe Fuse verwenden, mit dem man relativ anspruchsvolle Charaktermodelle und dazugehörige Animationen erstellen konnte. Dabei lassen sich sowohl Körperform und Kleidung, als auch detailgetreu der Gesichtsausdruck, sowie Haarfarben, Augenfarbe usw. den persönlichen Wünschen anpassen. Diese weite Reihe an Funktionen nutzten wir, um zunächst einen Testcharakter zu erstellen. Diesen konnte man dort auch als 3D-Model, also als .fbx datei exportieren, was wir direkt testweise machten und testeten, wie sich das entstandene Model in Unity verhält.
+Da wir große Fans der Creative Cloud von Adobe und überzeugt von der Qualität und Funktionalität der enthaltenen Programme sind, wollten wir das sich noch in der Beta befindende Tool Adobe Fuse verwenden, mit dem man relativ anspruchsvolle Charaktermodelle und dazugehörige Animationen erstellen konnte. Dabei lassen sich sowohl Körperform und Kleidung, als auch detailgetreu der Gesichtsausdruck, sowie Haarfarben, Augenfarbe usw. den persönlichen Wünschen anpassen. Diese weite Reihe an Funktionen nutzten wir, um zunächst einen Testcharakter zu erstellen. Diesen konnte man dort auch als 3D-Model, also als .fbx Datei, exportieren, was wir direkt testweise machten und testeten, wie sich das entstandene Model in Unity verhält.
  
 <h3 id="zweinulleinszwei">20.12.18 - Zuhause</h3>
 <h4>Stundenaufwand: 3:30</h4>
 
-Nach einigen Veränderungen haben wir nun endlich den Charakter fertiggestellt. Als nächsten Schritt haben wir diesen dann in Mixamo mit verschiedenen Animationen versehen, eine vorwärts, eine rückwärts und 2 seitwärts-Animationen. Diese lassen sich dort direkt auf den Charakter anwenden und testen. Dieser Schritt selber bedurfte nicht viel Zeit und so haben wir den Charakter schnell aus Mixamo exportieren und in Unity importieren können.
+Nach einigen Veränderungen haben wir nun endlich den Charakter fertiggestellt. Als nächsten Schritt haben wir diesen dann in Mixamo mit verschiedenen Animationen versehen, eine Vorwärts-, eine Rückwärts- und 2 Seitwärts-Animationen. Diese lassen sich dort direkt auf den Charakter anwenden und testen. Dieser Schritt selber bedurfte nicht viel Zeit und so haben wir den Charakter schnell aus Mixamo exportieren und in Unity importieren können.
 
 Parallel dazu haben wir in Unity einen PlayerController erstellt. Das ist das C#-Programm, das für die Bewegung des Charakters in alle Richtungen verantwortlich ist. Besonders wichtig war hierbei, dass auch eine Sprint-Funktion eingebaut wird, die allerdings nur mit dem Drücken der Shift-Taste UND der W-Taste aktiviert wird. Die nächsten Zeit vebrachten wir daher damit, Sprinten nur beim Vorwärtslaufen möglich zu machen. Um den ganzen Controller umzusetzten, mussten wir uns daher nochmal genauer in die Unity-Engine einlesen, und rausfinden, wie dort die "Verschiebung", also Bewegung von Objekten funktioniert und was man tun muss, um dies zu erreichen.
 
@@ -103,7 +103,7 @@ Parallel dazu haben wir in Unity einen PlayerController erstellt. Das ist das C#
 
 Heute haben wir uns dann genauer damit beschäftigt, wie wir die zuvor erstellten Animationen auch in Unity anwenden können. Dann ging es daran, die Animationen an bestimmte Aktionen zu koppeln: Die Lauf-Animation an das Drücken der W-Taste oder die Sprint-Animation an das Drücken der W- und der Shift-Taste. 
 
-Um das zu bewerkstelligen nutzten wir den Unity Animator, der eine bedingte Animation ermöglicht: Wir haben also jeweils ein Script geschrieben, in welchem verschiedene Tastaturaktionen abgefragt werden. An dieses Script lässt sich dann im Unity Animator eine Aktion, in diesem Fall das Abspielen der Vorwärts-Animation koppeln. Nachdem wir dort eine Weile rumprobiert haben, waren wir mit dem Ergebnis zufrieden. Dann haben wir das ganze noch einmal für alle anderen Bewegungen gemacht und die Scripte abgespeichert.
+Um das zu bewerkstelligen nutzten wir den Unity Animator, der eine bedingte Animation ermöglicht: Wir haben also jeweils ein Script geschrieben, in welchem verschiedene Tastaturaktionen abgefragt werden. An dieses Script lässt sich dann im Unity Animator eine Aktion, in diesem Fall das Abspielen der Vorwärts-Animation, koppeln. Nachdem wir dort eine Weile rumprobiert haben, waren wir mit dem Ergebnis zufrieden. Dann haben wir das ganze noch einmal für alle anderen Bewegungen gemacht und die Scripte abgespeichert.
 
 Einer der Vorteile des Unity-Animator ist der Übergang zwischen den Animationen. Diese erstellt er automatisch, was einen weichen Übergang zwischen den einzelnen Animationen ermöglicht. 
   
@@ -112,42 +112,42 @@ Einer der Vorteile des Unity-Animator ist der Übergang zwischen den Animationen
 
 Da wir den Charakter mit einem Capsule-Collider ausgestattet haben, hatte dieser in einer dreidimensionalen Welt auch die Eigenschaften einer Kapsel: Er rollte also Berge zum Teil einfach rückwärts runter! Um dieses Problem zu lösen, haben wir die Rotation-Funktion des Charakters deaktiviert.
 
-Zudem haben wir damit begonnen, die ersten Schritte unseres Projektes in unsere Projektseite zu übernehmen. Da bedeutet, wir haben ein Github-Repository erstellt und mit  einer Readme.txt ausgestattet. Zudem haben wir unser Vorgehen in Adobe Fuse, in Maximo und die ersten Schritte im Unity-Animator mit aufgennommen. Schon jetzt haben wir gemerkt, dass das Projekt vermutlich ziemlich umfangreich wird und wollten daher bereits jetzt jeden Schritt, den wir in unserem Unity-Projekt machten sofort ausgiebig in der Projektseite dokumentieren.
+Zudem haben wir damit begonnen, die ersten Schritte unseres Projektes in unsere Projektseite zu übernehmen. Da bedeutet, wir haben ein Github-Repository erstellt und mit  einer Readme.txt ausgestattet. Zudem haben wir unser Vorgehen in Adobe Fuse, in Mixamo und die ersten Schritte im Unity-Animator mit aufgenommen. Schon jetzt haben wir gemerkt, dass das Projekt vermutlich ziemlich umfangreich wird und wollten daher bereits jetzt jeden Schritt, den wir in unserem Unity-Projekt machten, sofort ausgiebig in der Projektseite dokumentieren.
 
 <h3 id="zweiachteinszwei">28.12.18 - Zuhause</h3>
 <h4>Stundenaufwand: 4:00</h4>
 
-Heute haben wir mit der näheren Ausführung unseres Designentwurfes beschäftigt. Dafür haben wir das 3D-Modellierungs-Tool Blender genutzt und zunächst darin einige Versuche getätigt, um uns mit dessen Funktionsweise zu beschäftigen. Zudem haben wir mit einzelnen Objekten, wie einem Stein, erste Modellierugnsversuche für unser Projekt erstellt. 
+Heute haben wir mit der näheren Ausführung unseres Designentwurfes beschäftigt. Dafür haben wir das 3D-Modellierungs-Tool Blender genutzt und zunächst darin einige Versuche getätigt, um uns mit dessen Funktionsweise zu beschäftigen. Zudem haben wir mit einzelnen Objekten, wie einem Stein, erste Modellierungsversuche für unser Projekt erstellt. 
 
 Schwierig war hierbei, dass Blender sehr stark von der Nutzung von Shortcuts abhängt. Als Anfänger ist es daher schwierig, sich mit Online-Tutorials zu behelfen, da viele der Ersteller davon nahezu ausnahmslos auf Shortcuts zurückgreifen. Daher ist es sehr schwer diesen als Anfänger zu folgen. Für den Anfang war es also unumgänglich, sich eine Liste mit allen verfügbaren Shortcuts anzulegen und diese zu lernen.
 
 <h3 id="nullsiebennulleins">07.01.19 - Zuhause</h3>
 <h4>Stundenaufwand: 2:00</h4>
 
-Nachdem wir die Shortcuts nun halbwegs gelernt hatten, begannen wir, richtigen Fortschritt in Blender zu tätigen. Also haben wir die bestehenden Modelle verworfen und damit begonnen einen Stein zu modellieren. 
+Nachdem wir die Shortcuts nun halbwegs gelernt hatten, begannen wir richtigen Fortschritt in Blender zu tätigen. Also haben wir die bestehenden Modelle verworfen und damit begonnen einen Stein zu modellieren. 
 
 Desweiteren haben wir heute eine Tanne modelliert. Diese sollen später auf dem Terrain in Unity platziert werden und dem grafischen Bild genügen. Schwierig daran war vor allem, die Bäume entsprechend unserer Design-Vorstellung zu modellieren. Dafür müssten sie sowohl einen Comic Stil haben, als auch detailliert genug sein, um noch weiterhin in die Welt zu passen. Daher benötigte es ein wenig Trial and Error bis wir die Objekte so modelliert hatten, dass sie uns gefielen.
 
 <h3 id="nullachtnulleinsz">08.01.19 - Zuhause</h3>
 <h4>Stundenaufwand: 2:00</h4>
 
-Heute haben wir weiter an einem zum Stil passenden Baum gearbeitet. Die Tanne hat weder zur Inselart noch zum Stil gepasst weshalb wir diese verworfen haben. Denn zeitgleich beschlossen wir, wie unsere Welt grob aussehen sollte. Dafür benötigten wir dann aber eher normale Bäume statt Tannen, weshalb wir zunächst einen Prototypen wir einen passenden Baum entwarfen. Der neue Baum ist detailreicher und passt farblich besser zur Insel. Diesen haben wir erstmals in Unity eingefügt. Mit ein bisschen Drehen und Wenden sowie Größenanpassungen gefiehl uns das schon ganz gut, und wir beließen es dabei.
+Heute haben wir weiter an einem zum Stil passenden Baum gearbeitet. Die Tanne hat weder zur Inselart noch zum Stil gepasst weshalb wir diese verworfen haben. Denn zeitgleich beschlossen wir, wie unsere Welt grob aussehen sollte. Dafür benötigten wir dann aber eher Laubbäume statt Tannen, weshalb wir zunächst einen Prototypen eines passenden Baumes entwarfen. Der neue Baum ist detailreicher und passt farblich besser zur Insel. Diesen haben wir erstmals in Unity eingefügt. Mit ein bisschen Drehen und Wenden, sowie Größenanpassungen, gefiehl uns das schon ganz gut und wir beließen es dabei.
 
 Zudem haben wir einige Korrekturen an den Bewegungsabläufen im Script gemacht und eine abschließende Version des Bewegungsscriptes geschreiben. Dabei wurde das Script um eine Rotationsfunktion ergänzt, die wir allerdings später wieder verwarfen, da wir eine einfachere Lösung fanden. Zudem haben wir angefangen uns über die Befehle und Funktionalität einer Kameraführung zu informieren.
 
 <h3 id="nullachtnulleins">08.01.19 - Unterricht</h3>
 <h4>Stundenaufwand: 1:30</h4>
 
-Heute haben wir einen ersten Spieltest betrieben. Dabei haben wir festgestellt, dass wir weiter an der Kameraführung arbeiten müssen, da es noch recht dürftig wirkte und sehr komisch war, damit im Spiel umzugehen. Außerdem haben wir das Terrain weiter bearbeitet um etwas mehr Abwechslung in die Insel zu bekommen. Die Terrain-Bearbeitungs-Funktion in Unity war dabei sehr hilfreich, da es damit sehr einfach ist, Farbe und Kontur in das Terrain zu bekommen. Desweiteren haben wir über weitere Details wie Büsche und Steine gesprochen, mit welcher wir die Umgebung ausstatten wollten und erste grobe Schnittzeichnungen gemacht.
+Heute haben wir einen ersten Spieltest betrieben. Dabei haben wir festgestellt, dass wir weiter an der Kameraführung arbeiten müssen, da es noch recht dürftig wirkte und sehr komisch war, damit im Spiel umzugehen. Außerdem haben wir das Terrain weiter bearbeitet, um etwas mehr Abwechslung in die Insel zu bekommen. Die Terrain-Bearbeitungs-Funktion in Unity war dabei sehr hilfreich, da es damit sehr einfach ist, Farbe und Kontur in das Terrain zu bekommen. Desweiteren haben wir über weitere Details wie Büsche und Steine gesprochen, mit welcher wir die Umgebung ausstatten wollten, und erste grobe Schnittzeichnungen gemacht.
 
 <h3 id="nullneunnulleins">09.01.19 - Zuhause</h3>
 <h4>Stundenaufwand: 3:00</h4>
 
-An diesem Nachmittag haben wir mithilfe des fertig modellierten Baum einen Wald gestaltet und weiter an der Insel geformt, sodass diese langsam etwas natürlicher wirkt. Dabei merkten wir erst, wie schwierig es ist, eine halbwegs realistische Umgebung zu modellieren, ohne dafür dutzende Baummodelle erstellen zu müssen. Daher hat bereits dies heute einige Zeit benötigt.
+An diesem Nachmittag haben wir mithilfe des fertig modellierten Baumes einen Wald gestaltet und weiter an der Insel geformt, sodass diese langsam etwas natürlicher wirkte. Dabei merkten wir erst, wie schwierig es ist, eine halbwegs realistische Umgebung zu modellieren, ohne dafür dutzende Baummodelle erstellen zu müssen. Daher hat bereits dies heute einige Zeit benötigt.
 
-Zudem haben wir neue Texturen für Gras und Sand rausgesucht und die alten ersetzt. Der Trick dabei war, ein Gras-Modell in Blender zu erstellen, es zweidimensional abzufotografieren, dies als PNG zu exportieren, in Photoshop die Konturen auszuschneiden und dann in Unity zu importieren. Um hier ein wenig Arbeitsspeicher zu sparen, haben wir da Gras nämlich nicht einfach als Modell auf der Insel platziert, da dies ewig dauern würde und zudem beim Spieler enorm viel Rechenleistung benötigen würde, sondern haben auf eine Funktion der Unity-Terrain-Gestaltung zurückgegriffen, in der man ein PNG importiert, welches dann quasi als bewegliches Bild in der Welt eingebunden werden kann. 
+Zudem haben wir neue Texturen für Gras und Sand rausgesucht und die Alten ersetzt. Der Trick dabei war, ein Gras-Modell in Blender zu erstellen, es zweidimensional abzufotografieren, dies als PNG zu exportieren, in Photoshop die Konturen auszuschneiden und dann in Unity zu importieren. Um hier ein wenig Arbeitsspeicher zu sparen, haben wir das Gras nämlich nicht einfach als Modell auf der Insel platziert, da dies ewig dauern würde und zudem beim Spieler enorm viel Rechenleistung benötigen würde, sondern auf eine Funktion der Unity-Terrain-Gestaltung zurückgegriffen. In der importiert man ein PNG, welches dann quasi als bewegliches Bild in der Welt eingebunden werden kann. 
 
-Auch für Wasser haben wir eine neue Textur herausgesucht und das Wasserasset damit geupdatet. Zudem haben wir unsere Map mit einer unsichtbaren Wand begrenzt, sodass man nichtmehr tief in den Ozean laufen kann und irgendwann vom Rand der Welt herunterfällt. Dabei musste die Wand zwar unsichtbar sein, aber eben noch in Hindernis für den Spieler darstellen. 
+Auch für Wasser haben wir eine neue Textur herausgesucht und das Wasserasset damit geupdatet. Zudem haben wir unsere Map mit einer unsichtbaren Wand begrenzt, sodass man nicht mehr tief in den Ozean laufen kann und irgendwann vom Rand der Welt herunterfällt. Dabei musste die Wand zwar unsichtbar sein, aber eben noch ein Hindernis für den Spieler darstellen. 
 
 <h3 id="einsviernulleinsz">14.01.19 - Zuhause</h3>
 <h4>Stundenaufwand: 8:00</h4>
