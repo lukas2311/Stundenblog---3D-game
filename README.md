@@ -76,7 +76,7 @@ Nach einiger Zeit einigten wir uns dann darauf, keine App, sondern ein Computerp
 <h3 id="einsachteinszweiz">18.12.18 - Zuhause</h3>
 <h4>Stundenaufwand: 2:30</h4>
 
-Nun haben wir begonnen uns (erneut) in Unity und die neuesten Updates einzulesen und im Zweifel vorhandenes Wissen aufgefrischt. Zudem haben wir mit der Installation der Unity Engine, sowie einigen Assets begonnen und das Programm eingerichtet. Da die Engine ziemlich groß ist, dauerte es entsprechend eine Weile, bis das ganze installiert war. 
+Nun haben wir begonnen uns (erneut) in Unity und die neuesten Updates einzulesen und im Zweifel vorhandenes Wissen aufgefrischt. Zudem haben wir mit der Installation der Unity Engine, sowie einigen Assets begonnen und das Programm eingerichtet. Da die Engine ziemlich groß ist dauerte es entsprechend eine Weile bis das ganze installiert war. 
   
 Gleichzeitig haben wir uns darauf geeinigt, wie wir das Projekt umsetzen wollen. Zum einen hatten wir den Anspruch, sämtliche Modelle und Objekte selber zu modellieren, zum anderen einen gewissen grafischen Standart zu erfüllen. Um das zu erreichen, recherchierten wir nach einen angemessenen Stil für unser Projekt und sind unter anderem auf folgende zwei Beispiele getroffen:
   
