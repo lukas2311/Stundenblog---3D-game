@@ -71,7 +71,7 @@ Heute haben wir uns mit der Ideenfindung beschäftigt. Nachdem wir das letzte Ma
 
 Wo wir bereits letzte Stunde dafür aufgebracht hatten, uns zu informieren, was für Möglichkeiten es gibt, wollten wir dieses Mal bereits eine Idee entwickeln, um im Vergleich zu unserem letzten Informatikprojekt sehr früh viel Fortschritt zu machen.
 
-Nach einiger Zeit einigten wir uns dann darauf, keine App, sondern ein Computerprogramm, genauer gesagt ein Computerspiel zu programmieren. Dazu entschieden wir uns, da wir auch einen gestalterischen, also einen grafischen, Anspruch hatten. Da wir schon Erfahrung mit der Unity Engine hatten, beschlossen wir, diese für unser Projekt zu nutzen. Zudem ist sie deutlich benutzerfreundlicher als z.B. die Unreal Engine und hat ebenfalls eine deutlich größere Community mit einer größeren Anzahl an Lernvideos.
+Nach einiger Zeit einigten wir uns dann darauf, keine App, sondern ein Computerprogramm, genauer gesagt ein Computerspiel, zu programmieren. Dazu entschieden wir uns, da wir auch einen gestalterischen, also einen grafischen, Anspruch hatten. Da wir schon Erfahrung mit der Unity Engine hatten, beschlossen wir, diese für unser Projekt zu nutzen. Zudem ist sie deutlich benutzerfreundlicher als z.B. die Unreal Engine und hat ebenfalls eine deutlich größere Community mit einer größeren Anzahl an Lernvideos.
   
 <h3 id="einsachteinszweiz">18.12.18 - Zuhause</h3>
 <h4>Stundenaufwand: 2:30</h4>
