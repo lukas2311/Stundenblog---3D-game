@@ -87,7 +87,7 @@ Da uns der Low-Poly-Cartoon-Stil zusagte, wollten wir diesen auch in unserem Pro
 <h3 id="einsneuneinszwei">19.12.18 - Zuhause</h3>
 <h4>Stundenaufwand: 2:00</h4>
   
-Heute haben wir damit begonnen, ein kleines Terrain in Unity zu modellieren und überlegt, wie wir einen eigenen Charakter für die Spielwelt umsetzen können. 
+Heute haben wir damit begonnen ein kleines Terrain in Unity zu modellieren und überlegt, wie wir einen eigenen Charakter für die Spielwelt umsetzen können. 
 
 Da wir große Fans der Creative Cloud von Adobe und überzeugt von der Qualität und Funktionalität der enthaltenen Programme sind, wollten wir das sich noch in der Beta befindene Tool Adobe Fuse verwenden, mit dem man relativ anspruchsvolle Charaktermodelle und dazugehörige Animationen erstellen konnte. Dabei lassen sich sowohl Körperform und Kleidung, als auch detailgetreu der Gesichtsausdruck, sowie Haarfarben, Augenfarbe usw. den persönlichen Wünschen anpassen. Diese weite Reihe an Funktionen nutzten wir, um zunächst einen Testcharakter zu erstellen. Diesen konnte man dort auch als 3D-Model, also als .fbx datei exportieren, was wir direkt testweise machten und testeten, wie sich das entstandene Model in Unity verhält.
  
