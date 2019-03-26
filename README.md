@@ -152,24 +152,23 @@ Auch für Wasser haben wir eine neue Textur herausgesucht und das Wasserasset da
 <h3 id="einsviernulleinsz">14.01.19 - Zuhause</h3>
 <h4>Stundenaufwand: 8:00</h4>
 
-Heute haben wir uns weiter um die Gestaltung der Insel gekümmert. Angefangen mit Büschen, über tote und umgefallene Bäume, bis zu Steinen und Felsen. Sie sollte aussehen, wie eine verlassene und naturbelassene Insel.
+Heute haben wir uns weiter um die Gestaltung der Insel gekümmert. Angefangen mit Büschen, über tote und umgefallene Bäume, bis hin zu Steinen und Felsen. Sie sollte aussehen, wie eine verlassene und naturbelassene Insel.
 
-Außerdem haben wir eine Holztreppe modelliert, damit man vom Strand aus auf den oberen Teil der Insel gelangen kann. Desweiteren haben wir an der Inselform weiter gefeilt und ästetischer gestaltet.
+Außerdem haben wir eine Holztreppe modelliert, damit man vom Strand aus auf den oberen Teil der Insel gelangen kann. Desweiteren haben wir an der Inselform weiter gefeilt und sie ästetischer gestaltet.
 
-Parallel haben wir eine rudimentäre Kameraführung implementiert und eine Funktion geschrieben, die prüft, ob sich der Charakter auf dem Boden befindet. Dies war allerdings nicht ganz so einfach wie gedacht. Durch die unterschiedliche Höhe des Bodens, hat das Script nicht sonderlich gut funktioniert, denn obwohl man sich als Spieler nicht mehr auf dem Boden befand, wurde dennoch angezeigt, dass man sich auf dem Boden befindet. Dies stellte ein Problem dar, weswegen wir noch einmal am Script feilten und eine andere Herangehensweise nutzen, in der wir eine Collision mit dem Boden prüfte, und anhand dessen ausgaben, ob der Spieler sich auf dem Boden befand. Da allerdings nicht nur das Terrain, sondern auch alle Steine, Bäume, Brücken und Pflanzen zum Boden gehörten, war auch dies nicht sonderlich erfolgreich, weshalb wir zurück zum ersten Entwurf sind.
-
+Parallel dazu haben wir eine rudimentäre Kameraführung implementiert und eine Funktion geschrieben, die prüft, ob sich der Charakter auf dem Boden befindet. Dies war allerdings nicht ganz so einfach wie gedacht: Durch die unterschiedliche Höhe des Bodens, hat das Script nicht sonderlich gut funktioniert, denn obwohl man sich als Spieler nicht mehr auf dem Boden befand, wurde dennoch angezeigt, dass man sich auf dem Boden befindet. Dies stellte ein Problem dar, weswegen wir noch einmal am Script feilten und eine andere Herangehensweise nutzen, in der wir eine Collision mit dem Boden prüften, und anhand dessen ausgaben, ob der Spieler sich auf dem Boden befand. Da allerdings nicht nur das Terrain, sondern auch alle Steine, Bäume, Brücken und Pflanzen zum Boden gehörten, war auch dies nicht sonderlich erfolgreich, weshalb wir auf den ersten Entwurf zurückgriffen.
 
 <h3 id="einsfuenfnulleinsz">15.01.19 - Zuhause</h3>
 <h4>Stundenaufwand: 3:00</h4>
 
-Die am vorherigen Tag modellierten Gegenstände haben wir heute auf der Insel platziert und einen Weg von der Treppe zum geplanten Haus gezogen. Nun sieht die Insel schon deutlich lebhafter aus. Dazu haben wir die gesamte Insel mit Steinen umschlossen um sie realistischer zu gestalten. 
+Die am vorherigen Tag modellierten Gegenstände haben wir heute auf der Insel platziert und einen Weg von der Treppe zum geplanten Haus gezogen. Nun sieht die Insel schon deutlich lebhafter aus. Dazu haben wir die gesamte Insel mit Steinen umschlossen, um sie realistischer zu gestalten. 
 
 Zudem haben wir uns noch einmal an das Script vom Vortag gemacht. Nachdem wir einige Korrekturen vornahmen, war das Ergebnis halbwegs erfolgreich, sodass wir es nutzen konnten. Daher implementierten wir es und nahmen einige Tests vor. Zudem machten wir einen weiteren Export, um in der Schule einen weiteren Spieltest zu machen.
 
 <h3 id="einsfuenfnulleins">15.01.19 - Unterricht</h3>
 <h4>Stundenaufwand: 01:30</h4>
 
-An diesem Tag haben wir einen weiteren Test mit einem neuen Game-Export gemacht. Wir haben festgestellt, dass die Kameraführung weiterhin ein Problem darstellt. Die Kamera folgt zum jetzigen Zeitpunkt nicht der Drehung des Charakters und ist schwer mit der Maus zu steuern, da unter anderem die Axenbewegung umgekehrt ist. Daher haben wir an einer Lösung des Kameraproblems gearbeitet:
+An diesem Tag haben wir einen weiteren Test mit dem neuen Game-Export gemacht. Wir haben festgestellt, dass die Kameraführung weiterhin ein Problem darstellt. Die Kamera folgt zum jetzigen Zeitpunkt nicht der Drehung des Charakters und ist schwer mit der Maus zu steuern, da unter anderem die Axenbewegung umgekehrt ist. Daher haben wir an einer Lösung des Kameraproblems gearbeitet:
 
 Die Kamera stellte im ganzen Projekt eine Herausforderung dar. Denn sie dreht sich nicht einfach mit dem Charakter mit, sondern sie hat eine besondere Bewegung, die man Kamera Orbit nennt. Die Lösung dafür war zumindest auf der X-Y-Achse im Koordinatensystem relativ einfach. Dafür haben wir einfach die Kamera an den Charakter angeheftet, und ein kleines Programm geschrieben, um den Charakter selbst mit der Mausbewegung zu drehen. In der Z-Richtung war das ganze nicht so einfach, weshalb wir dieses Problem erstmal zurückstellten.
 
@@ -181,9 +180,9 @@ In der heutigen Unterrichtstunde haben wir das Stundenprotokoll weiter ausformul
 <h3 id="zweizweinulleins">22.01.19 - Unterricht</h3>
 <h4>Stundenaufwand: 01:30</h4>
 
-In der Doppelstunde heute haben wir an der Dokumentation weitergearbeitet. So langsam wurde auch diese sehr umfangreich, weshalb wir auch diese, wie letzte Stunde das Protokoll, einmal strukturierten. Wir haben also eine Aufteilung in das Design, das Gameplay selbst, und die Programmierung vorgenommen, und eine grobe Einleitung mit den Zielen des Projektes verfasst.
+In der Doppelstunde heute haben wir an der Dokumentation weitergearbeitet. So langsam wurde auch diese sehr umfangreich, weshalb wir auch diese, wie letzte Stunde das Protokoll, einmal strukturierten. Wir haben also eine Aufteilung in das Design, das Gameplay und die Programmierung vorgenommen und eine grobe Einleitung mit den Zielen des Projektes verfasst.
 
-Außerdem haben wir ein Script geschrieben damit die Maus im Spiel nicht zu sehen ist, außer wenn das Pausemenü aufgerufen wird. Parallel haben wir ein Script für ein Pausemenü begonnen. Dies funktionierte aber noch nicht ganz einwandfrei, denn das Pausemenü wollte plötzlich nicht mehr verschwinden. Wir ließen das Problem erstmal so und wandten uns der Erstellung des Menü-Bildschirms zu. Da dies relativ einfach ging, hatten wir gegen Ende der Stunde bereits einen halbwegs funktionstüchtigen Prototypen. 
+Außerdem haben wir ein Script geschrieben, damit die Maus im Spiel nicht zu sehen ist, außer wenn das Pausemenü aufgerufen wird. Parallel haben wir ein Script für ein Pausemenü begonnen. Dies funktionierte aber noch nicht ganz einwandfrei, denn das Pausemenü wollte plötzlich nicht mehr verschwinden. Wir ließen das Problem erstmal so und wandten uns der Erstellung des Menü-Bildschirms zu. Da dies relativ einfach ging, hatten wir gegen Ende der Stunde bereits einen halbwegs funktionstüchtigen Prototypen. 
 
 <h3 id="zweidreinulleins">23.01.19 - Zuhause</h3>
 <h4>Stundenaufwand: 05:00 </h4>
